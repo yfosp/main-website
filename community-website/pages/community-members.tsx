@@ -9,7 +9,7 @@ const CommunityMembers: NextPage = () => {
     <div className={styles.container}>
       Community Members Placeholder
       <br />
-      <a href="/">Go Back</a>
+      <Link href="/">Go Back</Link>
     </div>
   );
 };

@@ -9,7 +9,7 @@ const Contributors: NextPage = () => {
     <div className={styles.container}>
       Contributors Placeholder
       <br />
-      <a href="/">Go Back</a>
+      <Link href="/">Go Back</Link>
     </div>
   );
 };
