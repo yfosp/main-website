@@ -62,11 +62,11 @@ const Home: NextPage = () => {
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://hacktoberfest.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Created by the community for the community with ❤️
+         Created by the community for Hacktoberfest 2022 with ❤️
         </a>
       </footer>
     </div>
