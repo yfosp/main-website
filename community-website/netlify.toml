@@ -1,3 +1,13 @@
+# The easiest way to deploy Next.js apps is to use Vercel
+# However, Vercel does not allow code repositories belonging to a GitHub Organization to be deployed in their 'Free' account (need to pay)
+# Hence, alternative choice is to use Netlify
+# Tried multiple configurations in the 'Build & Deploy' settings but to no avail in deploying the Next.js apps on Netlify
+# Eventually, discovered a solution which is to add a netlify.toml config file which essentially handles the build process for us (See below references)
+# And also make sure your 'Build & Deploy' settings are still correct (refer to Netlify's settings for more details)
+# Reference 1: https://bilalsevinc.medium.com/how-to-deploy-next-js-site-to-netlify-without-page-not-found-error-7b46e73a66a3 (Do not use the [[redirects]], as it will cause CSS issues)
+# Reference 2: https://www.npmjs.com/package/@netlify/plugin-nextjs (need to npm install this plugin)
+# Reference 3: https://answers.netlify.com/t/nextjs-netlify-deploy-not-rendering-css/64278/4 (If you use [[redirects]] from reference 1, your Next.js app will have no CSS)
+
 [build]
   command = "npm run build"
   publish = ".next"
