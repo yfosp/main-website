@@ -22,6 +22,13 @@
             <sub><b>flawlesslys</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/theadityaagnihotri">
+            <img src="https://avatars.githubusercontent.com/u/95487342?v=4" width="100;" alt="theadityaagnihotri"/>
+            <br />
+            <sub><b>theadityaagnihotri</b></sub>
+        </a>
+    </td>
   </tr>   
 </table>
 
