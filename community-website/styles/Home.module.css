@@ -19,6 +19,7 @@
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
 .footer a {
@@ -106,6 +107,13 @@
 .logo {
   height: 1em;
   margin-left: 0.5rem;
+}
+
+.canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
 }
 
 @media (max-width: 600px) {
