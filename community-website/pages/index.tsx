@@ -14,7 +14,7 @@ const Home: NextPage = () => {
       strings: [
         "Get started with Your First Open Source Project!",
         "Submit your first open source contribution now!",
-        "Join Our awesome community of 87 members!",
+        "Join our awesome community of 87 members!",
       ],
       typeSpeed: 75,
       backSpeed: 75,
@@ -89,7 +89,7 @@ const Home: NextPage = () => {
             rel="noopener noreferrer"
           >
             <h2>Find us on GitHub &rarr;</h2>
-            <p>Join our wonderful & growing community of 86 people 💖</p>
+            <p>Join our wonderful & growing community of 87 people 💖</p>
           </a>
         </div>
       </main>
