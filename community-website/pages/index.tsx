@@ -46,12 +46,13 @@ const Home: NextPage = () => {
         <link rel="icon" href="/earth-asia-solid.svg" />
       </Head>
 
-      <NavBar></NavBar>
-      
-      <main className={styles.main}>
-        <canvas id="confetti-canvas" className={styles.canvas}></canvas>
+      <canvas id="confetti-canvas" className={`${styles.canvas} dark:bg-black`}></canvas>
 
-        <h6 className={styles.title}>
+
+      <main className={`${styles.main} dark:text-white`}>
+        <NavBar></NavBar>
+
+        <h1 className={styles.title}>
           Welcome to{" "}
           <a
             href="https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022"
@@ -60,10 +61,10 @@ const Home: NextPage = () => {
           >
             Your First Open Source Project!
           </a>
-        </h6>
+        </h1>
 
         <p className={styles.description}>
-          <code className={styles.code} id="typing-element"></code>
+          <code className={`${styles.code} bg-white dark:bg-black dark:text-white`} id="typing-element"></code>
         </p>
 
         <div className={styles.grid}>
@@ -97,7 +98,7 @@ const Home: NextPage = () => {
         </div>
       </main>
 
-      <footer className={styles.footer}>
+      <footer className={`${styles.footer} dark:text-white`}>
         <a
           href="https://hacktoberfest.com/"
           target="_blank"
