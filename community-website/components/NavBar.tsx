@@ -4,7 +4,7 @@ import DarkModeButton from "./DarkModeButton";
 
 export default function NavBar() {
   return (
-    <Disclosure as="nav" className="dark:bg-black">
+    <Disclosure as="nav">
       {({ open }) => (
         <>
           <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
