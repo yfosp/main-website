@@ -1,5 +1,6 @@
 // Dark mode is made possible using a) react-toggle-dark-mode & b) tailwind-CSS
 // Reference: https://github.com/JoseRFelix/react-toggle-dark-mode && https://tailwindcss.com/docs/dark-mode
+
 import React, { useState, useEffect } from "react";
 import { DarkModeSwitch } from "react-toggle-dark-mode";
 
