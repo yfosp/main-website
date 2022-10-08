@@ -5,6 +5,7 @@ import styles from "../styles/Home.module.css";
 import { useRef, useEffect } from "react";
 import Typed from "typed.js";
 import ConfettiGenerator from "confetti-js";
+import NavBar from "../components/NavBar";
 
 const Home: NextPage = () => {
   const typed = useRef<null | Typed>(null);
@@ -45,6 +46,8 @@ const Home: NextPage = () => {
         <link rel="icon" href="/earth-asia-solid.svg" />
       </Head>
 
+      <NavBar></NavBar>
+      
       <main className={styles.main}>
         <canvas id="confetti-canvas" className={styles.canvas}></canvas>
 
