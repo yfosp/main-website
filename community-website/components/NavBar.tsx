@@ -1,14 +1,10 @@
-import { Fragment } from 'react';
-import { Disclosure, Menu, Transition } from '@headlessui/react';
-import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline';
-
-function classNames(...classes: string[]) {
-  return classes.filter(Boolean).join(' ')
-}
+import React, { useState, useEffect } from "react";
+import { Disclosure } from '@headlessui/react';
+import DarkModeButton from "./DarkModeButton";
 
 export default function NavBar() {
   return (
-    <Disclosure as="nav" className="bg-gray-800">
+    <Disclosure as="nav" className="dark:bg-black">
       {({ open }) => (
         <>
           <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
@@ -20,7 +16,7 @@ export default function NavBar() {
                   type="button"
                   className="rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800"
                 >
-                  <BellIcon className="h-6 w-6" aria-hidden="true" />
+                  <DarkModeButton></DarkModeButton>
                 </button>
               </div>
             </div>
