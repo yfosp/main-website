@@ -47,11 +47,11 @@ const Home: NextPage = () => {
       </Head>
 
       <NavBar></NavBar>
-      
+
       <main className={styles.main}>
         <canvas id="confetti-canvas" className={styles.canvas}></canvas>
 
-        <h6 className={styles.title}>
+        <h1 className={styles.title}>
           Welcome to{" "}
           <a
             href="https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022"
@@ -60,7 +60,7 @@ const Home: NextPage = () => {
           >
             Your First Open Source Project!
           </a>
-        </h6>
+        </h1>
 
         <p className={styles.description}>
           <code className={styles.code} id="typing-element"></code>
