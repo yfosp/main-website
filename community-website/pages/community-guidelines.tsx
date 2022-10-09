@@ -26,7 +26,7 @@ const CommunityGuidelines: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Contributors</title>
+        <title>Community Guidelines</title>
         <meta name="description" content="YFOSP Contributors" />
         <link rel="icon" href="/earth-asia-solid.svg" />
       </Head>

@@ -21,7 +21,7 @@
               <img src="https://avatars.githubusercontent.com/u/81615152?v=4" width="100;" alt="flawlesslys"/>
               <br />
               <sub><b>flawlesslys</b></sub>
-          </a>
+          </a>    
       </td>
       <td align="center">
           <a href="https://github.com/theadityaagnihotri" target="_blank" rel="noopener noreferrer">
@@ -29,6 +29,13 @@
               <br />
               <sub><b>theadityaagnihotri</b></sub>
           </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/GabrielWarner" target="_blank" rel="noopener noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/98490756?v=4" width="100;" alt="gabrielwarner"/>
+          <br />
+          <sub><b>GabrielWarner</b></sub>
+        </a>
       </td>
     </tr>   
   </tbody>
