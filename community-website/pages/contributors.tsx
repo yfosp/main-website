@@ -77,6 +77,14 @@ const Contributors: NextPage = () => {
                       <sub><b>theadityaagnihotri</b></sub>
                     </a>
                 </td>
+                <td align="center">
+                    <a href="https://github.com/GabrielWarner" target="_blank" rel="noopener noreferrer">
+                      <img src="https://avatars.githubusercontent.com/u/98490756?v=4" width="100;" alt="gabrielwarner"/>
+                      <br />
+                      <sub><b>GabrielWarner</b></sub>
+                    </a>
+                </td>
+                
               </tr>
             </tbody>   
           </table>
