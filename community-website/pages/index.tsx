@@ -5,6 +5,7 @@ import { useRef, useEffect } from "react";
 import Typed from "typed.js";
 import ConfettiGenerator from "confetti-js";
 import NavBar from "../components/NavBar";
+import Link from "next/link";
 
 const Home: NextPage = () => {
   const typed = useRef<null | Typed>(null);
@@ -36,13 +37,6 @@ const Home: NextPage = () => {
 
     return () => confetti.clear();
   }, [])
-  
-  // Force 'refresh' of page when resizing it in dev tools
-  useEffect(() => {
-    window.addEventListener('resize', ()=> {
-      window.location.reload();
-    })
-  }, [])
 
   return (
     <div className={styles.container}>
@@ -52,7 +46,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/earth-asia-solid.svg" />
       </Head>
 
-      <canvas id="confetti-canvas" className={`${styles.canvas} bg-white dark:bg-black`}></canvas>
+      <canvas id="confetti-canvas" className={`${styles.canvas} bg-white dark:bg-black`} style={{}}></canvas>
 
 
       <main className={`${styles.main} text-black dark:text-white`}>
@@ -74,33 +68,40 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="./community-members" className={styles.card}>
-            <h2>Our Community &rarr;</h2>
-            <p>Find information about our community members here 👬</p>
-          </a>
+          <Link href="./community-members">
+            <a className={styles.card}>
+              <h2>Our Community &rarr;</h2>
+              <p>Find information about our community members here 👬</p>
+            </a>
+          </Link>
 
-          <a href="./contributors" className={styles.card}>
-            <h2>Our Contributors &rarr;</h2>
-            <p>
-              Learn about those who created this website using Next.js &
-              TypeScript 💻
-            </p>
-          </a>
+          <Link href="./contributors">
+            <a className={styles.card}>
+              <h2>Our Contributors &rarr;</h2>
+              <p>
+                Learn about those who created this website using Next.js &
+                TypeScript 💻
+              </p>
+            </a>
+          </Link>
 
-          <a href="./community-guidelines" className={styles.card}>
-            <h2>Our Guidelines &rarr;</h2>
-            <p>The community guidelines that everyone has to follow 👨‍💻</p>
-          </a>
+          <Link href="./community-guidelines">
+            <a className={styles.card}>
+              <h2>Our Guidelines &rarr;</h2>
+              <p>The community guidelines that everyone has to follow 👨‍💻</p>
+            </a>
+          </Link>
 
-          <a
-            href="https://github.com/Your-First-Open-Source-Project"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <h2>Find us on GitHub &rarr;</h2>
-            <p>Join our wonderful & growing community of 88 people 💖</p>
-          </a>
+          <Link href="https://github.com/Your-First-Open-Source-Project" passHref>
+            <a
+              className={styles.card}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <h2>Find us on GitHub &rarr;</h2>
+              <p>Join our wonderful & growing community of 88 people 💖</p>
+            </a>
+          </Link>
         </div>
       </main>
 

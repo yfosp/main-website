@@ -6,22 +6,18 @@ import styles from "../styles/Home.module.css";
 import Link from "next/link";
 import ConfettiGenerator from "confetti-js";
 import NavBar from "../components/NavBar";
+import { truncateNames } from "../utils/utils";
 
 const CommunityMembers: NextPage = () => {
 
   useEffect(() => {
+    truncateNames();
+    
     const confettiSettings = { target: 'confetti-canvas' };
     const confetti = new ConfettiGenerator(confettiSettings);
     confetti.render();
 
     return () => confetti.clear();
-  }, [])
-  
-  // Force 'refresh' of page when resizing it in dev tools
-  useEffect(() => {
-    window.addEventListener('resize', ()=> {
-      window.location.reload();
-    })
   }, [])
 
   return (
@@ -58,7 +54,13 @@ const CommunityMembers: NextPage = () => {
               <tr>
                 <td align="center">
                     <a href="https://github.com/melvincwng" target="_blank" rel="noopener noreferrer">
-                      <img src="https://avatars.githubusercontent.com/u/77479885?v=4" width="100;" alt="melvincwng"/>
+                      <img 
+                        src="https://avatars.githubusercontent.com/u/77479885" 
+                        width="85" 
+                        height="85" 
+                        alt="melvincwng" 
+                        className={styles.profileImage}
+                      />
                       <br />
                       <sub><b>melvincwng</b></sub>
                     </a>
