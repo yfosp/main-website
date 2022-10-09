@@ -104,6 +104,19 @@ const Contributors: NextPage = () => {
                       <sub><b>GabrielWarner</b></sub>
                     </a>
                 </td>
+                <td align="center" className={styles.tableData}>
+                    <a href="https://github.com/Bennykillua" target="_blank" rel="noopener noreferrer">
+                      <img 
+                        src="https://avatars.githubusercontent.com/u/67695793?v=4" 
+                        width="85" 
+                        height="85" 
+                        alt="Bennykillua"
+                        className={styles.profileImage}
+                      />
+                      <br />
+                      <sub><b>Bennykillua</b></sub>
+                    </a>
+                </td>
               </tr>
             </tbody>   
           </table>

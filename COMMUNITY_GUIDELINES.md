@@ -44,3 +44,5 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 We will investigate every complaint.  We shall use our discretion to decide when and how to respond to reported incidents, with options ranging from taking no action to banning someone permanently from the project and spaces sponsored by the project.
 
 However, before taking further action, we will inform the accused of the report and give them a chance to speak about it. But we will act without warning in potentially hazardous circumstances, such as persistent harassment or threats to anyone's safety.
+
+Written by [Bennykillua](https://github.com/Bennykillua)
