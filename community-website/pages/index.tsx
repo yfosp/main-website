@@ -36,13 +36,6 @@ const Home: NextPage = () => {
 
     return () => confetti.clear();
   }, [])
-  
-  // Force 'refresh' of page when resizing it in dev tools
-  // useEffect(() => {
-  //   window.addEventListener('resize', ()=> {
-  //     window.location.reload();
-  //   })
-  // }, [])
 
   return (
     <div className={styles.container}>
@@ -52,7 +45,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/earth-asia-solid.svg" />
       </Head>
 
-      <canvas id="confetti-canvas" className={`${styles.canvas} bg-white dark:bg-black`}></canvas>
+      <canvas id="confetti-canvas" className={`${styles.canvas} bg-white dark:bg-black`} style={{}}></canvas>
 
 
       <main className={`${styles.main} text-black dark:text-white`}>

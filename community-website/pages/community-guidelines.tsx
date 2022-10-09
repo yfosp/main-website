@@ -15,13 +15,6 @@ const CommunityGuidelines: NextPage = () => {
 
     return () => confetti.clear();
   }, [])
-  
-  // Force 'refresh' of page when resizing it in dev tools
-  // useEffect(() => {
-  //   window.addEventListener('resize', ()=> {
-  //     window.location.reload();
-  //   })
-  // }, [])
 
   return (
     <div className={styles.container}>
