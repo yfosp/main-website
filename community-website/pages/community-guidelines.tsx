@@ -32,7 +32,7 @@ const CommunityGuidelines: NextPage = () => {
 
         <h1 className={styles.title}>
           <a
-            href="https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues/10"
+            href="https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/blob/main/COMMUNITY_GUIDELINES.md"
             target="_blank"
             rel="noopener noreferrer"
           >
