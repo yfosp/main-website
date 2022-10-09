@@ -13,7 +13,7 @@ We want to create a community where everyone feels welcome and receives support 
 Thus, we believe we can achieve this by building a positive, welcoming environment where everyone feels safe to share ideas, thoughts, and feedback. 
 As you contribute, try to be supportive, respect individual opinions, and report inappropriate posts if needed.
 
-## 2. Expected Behavior and choice of words matters
+## 2. Expected behavior and choice of words matters
 
 We are a very diverse community. Thus, it would help if you acted professionally. 
 Therefore, you are to work in a manner that includes but is not restricted to:
@@ -32,3 +32,9 @@ Be mindful of your fellow participants and please report any cases of harassment
 ## 3. Disagreements 
 
 Disagreements are bound to happen, primarily because of the community's diversity. The strength of the project comes from its diversity. It is, however, important that we resolve disagreements constructively. Another individual having a different perspective or viewpoint on issues doesn't mean they're wrong. Don't forget that it is human to err, and blaming each other doesn't get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+
+## 4. Zero tolerance for harassment and unacceptable behavior
+
+Be respectful of everyone's ideas and perspectives on a problem. Don't directly attack a person. We will not tolerate any posts, comments, or messages to fellow contributors, admins, sponsors, or maintainers that are inappropriate, rude, or aggressive. This includes posts that spread misinformation and are disruptive to the communities. 
+
+Suppose a community member engages in unacceptable behavior. In that case, the community organizers may take any action they deem appropriate, including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
