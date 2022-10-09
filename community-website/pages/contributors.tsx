@@ -6,7 +6,6 @@ import styles from "../styles/Home.module.css";
 import Link from "next/link";
 import ConfettiGenerator from "confetti-js";
 import NavBar from "../components/NavBar";
-import Image from "next/image";
 
 const Contributors: NextPage = () => {
   
@@ -58,21 +57,21 @@ const Contributors: NextPage = () => {
             <tbody>
               <tr>
                 <td align="center">
-                    <a href="https://github.com/melvincwng">
+                    <a href="https://github.com/melvincwng" target="_blank" rel="noopener noreferrer">
                       <img src="https://avatars.githubusercontent.com/u/77479885?v=4" width="100;" alt="melvincwng"/>
                       <br />
                       <sub><b>melvincwng</b></sub>
                     </a>
                 </td>
                 <td align="center">
-                    <a href="https://github.com/flawlesslys">
+                    <a href="https://github.com/flawlesslys" target="_blank" rel="noopener noreferrer">
                       <img src="https://avatars.githubusercontent.com/u/81615152?v=4" width="100;" alt="flawlesslys"/>
                       <br />
                       <sub><b>flawlesslys</b></sub>
                     </a>
                 </td>
                 <td align="center">
-                    <a href="https://github.com/theadityaagnihotri">
+                    <a href="https://github.com/theadityaagnihotri" target="_blank" rel="noopener noreferrer">
                       <img src="https://avatars.githubusercontent.com/u/95487342?v=4" width="100;" alt="theadityaagnihotri"/>
                       <br />
                       <sub><b>theadityaagnihotri</b></sub>
