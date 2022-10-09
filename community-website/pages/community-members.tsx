@@ -6,10 +6,13 @@ import styles from "../styles/Home.module.css";
 import Link from "next/link";
 import ConfettiGenerator from "confetti-js";
 import NavBar from "../components/NavBar";
+import { truncateNames } from "../utils/utils";
 
 const CommunityMembers: NextPage = () => {
 
   useEffect(() => {
+    truncateNames();
+    
     const confettiSettings = { target: 'confetti-canvas' };
     const confetti = new ConfettiGenerator(confettiSettings);
     confetti.render();
