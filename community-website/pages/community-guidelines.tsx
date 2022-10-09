@@ -43,7 +43,7 @@ const CommunityGuidelines: NextPage = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Community Guidelines
+            Community Guidelines 📜
           </a>
         </h1>
 
