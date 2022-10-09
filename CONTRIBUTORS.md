@@ -14,9 +14,7 @@
               <img 
                 src="https://avatars.githubusercontent.com/u/77479885?v=4" 
                 width="85" 
-                height="85"  
                 alt="melvincwng"
-                style="max-width: none"
               />
               <br />
               <sub><b>melvincwng</b></sub>
@@ -27,9 +25,7 @@
               <img 
                 src="https://avatars.githubusercontent.com/u/81615152?v=4" 
                 width="85" 
-                height="85" 
                 alt="flawlesslys"
-                style="max-width: none"
               />
               <br />
               <sub><b>flawlesslys</b></sub>
@@ -40,9 +36,7 @@
               <img 
                 src="https://avatars.githubusercontent.com/u/95487342?v=4" 
                 width="85" 
-                height="85"
                 alt="theadityaagnihotri"
-                style="max-width: none"
               />
               <br />
               <sub><b>theadityaagnihotri</b></sub>
@@ -53,9 +47,7 @@
           <img 
             src="https://avatars.githubusercontent.com/u/98490756?v=4"
             width="85" 
-            height="85"
             alt="gabrielwarner"
-            style="max-width: none"
           />
           <br />
           <sub><b>GabrielWarner</b></sub>
