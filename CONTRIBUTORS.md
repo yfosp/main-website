@@ -54,6 +54,17 @@
         </a>
       </td>
       <td align="center">
+          <a href="https://github.com/Prakhar9450" target="_blank" rel="noopener noreferrer">
+              <img 
+                src="https://avatars.githubusercontent.com/u/95487342?v=4" 
+                width="85" 
+                alt="Prakhar9450"
+              />
+              <br />
+              <sub><b>Prakhar9450</b></sub>
+          </a>
+      </td>
+      <td align="center">
         <a href="https://github.com/Bennykillua" target="_blank" rel="noopener noreferrer">
           <img 
             src="https://avatars.githubusercontent.com/u/67695793?v=4"
