@@ -17,11 +17,11 @@ const CommunityGuidelines: NextPage = () => {
   }, [])
   
   // Force 'refresh' of page when resizing it in dev tools
-  useEffect(() => {
-    window.addEventListener('resize', ()=> {
-      window.location.reload();
-    })
-  }, [])
+  // useEffect(() => {
+  //   window.addEventListener('resize', ()=> {
+  //     window.location.reload();
+  //   })
+  // }, [])
 
   return (
     <div className={styles.container}>
