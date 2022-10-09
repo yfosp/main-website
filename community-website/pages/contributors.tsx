@@ -44,7 +44,7 @@ const Contributors: NextPage = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Our amazing contributors
+            Our amazing contributors ⭐
           </a>
         </h1>
 
