@@ -12,6 +12,15 @@
   align-items: center;
 }
 
+.contributors {
+  min-height: 80vh;
+  padding: 0 0 6rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .footer {
   display: flex;
   flex: 1;

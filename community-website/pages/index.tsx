@@ -1,6 +1,5 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import Image from "next/image";
 import styles from "../styles/Home.module.css";
 import { useRef, useEffect } from "react";
 import Typed from "typed.js";
@@ -36,7 +35,14 @@ const Home: NextPage = () => {
     confetti.render();
 
     return () => confetti.clear();
-  }, []) 
+  }, [])
+  
+  // Force 'refresh' of page when resizing it in dev tools
+  useEffect(() => {
+    window.addEventListener('resize', ()=> {
+      window.location.reload();
+    })
+  }, [])
 
   return (
     <div className={styles.container}>
