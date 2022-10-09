@@ -138,6 +138,10 @@
   height: 100%;
 }
 
+.profileImage {
+  max-width: none;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
