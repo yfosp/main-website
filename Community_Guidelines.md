@@ -37,4 +37,10 @@ Disagreements are bound to happen, primarily because of the community's diversit
 
 Be respectful of everyone's ideas and perspectives on a problem. Don't directly attack a person. We will not tolerate any posts, comments, or messages to fellow contributors, admins, sponsors, or maintainers that are inappropriate, rude, or aggressive. This includes posts that spread misinformation and are disruptive to the communities. 
 
-Suppose a community member engages in unacceptable behavior. In that case, the community organizers may take any action they deem appropriate, including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+Suppose a community member engages in unacceptable behavior. In that case, the community maintainers may take any action they deem appropriate, including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+
+## 5. Reporting Guidelines
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community maintainer as soon as possible. 
+We will investigate every complaint.  We shall use our discretion to decide when and how to respond to reported incidents, with options ranging from taking no action to banning someone permanently from the project and spaces sponsored by the project.
+
+However, before taking further action, we will inform the accused of the report and give them a chance to speak about it. But we will act without warning in potentially hazardous circumstances, such as persistent harassment or threats to anyone's safety.
