@@ -142,11 +142,25 @@
   max-width: none;
 }
 
+.tableData {
+  width: 16.66%;
+}
+
+.wrapperDiv {
+  overflow-x: auto !important;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
     flex-direction: column;
   }
+
+  .wrapperDiv {
+    width: 100%;
+    overflow-x: auto !important;
+    
+  }  
 }
 
 @media (prefers-color-scheme: dark) {
