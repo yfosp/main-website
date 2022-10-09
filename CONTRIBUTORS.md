@@ -16,6 +16,7 @@
                 width="85" 
                 height="85"  
                 alt="melvincwng"
+                style="max-width: none"
               />
               <br />
               <sub><b>melvincwng</b></sub>
@@ -28,6 +29,7 @@
                 width="85" 
                 height="85" 
                 alt="flawlesslys"
+                style="max-width: none"
               />
               <br />
               <sub><b>flawlesslys</b></sub>
@@ -40,6 +42,7 @@
                 width="85" 
                 height="85"
                 alt="theadityaagnihotri"
+                style="max-width: none"
               />
               <br />
               <sub><b>theadityaagnihotri</b></sub>
@@ -52,6 +55,7 @@
             width="85" 
             height="85"
             alt="gabrielwarner"
+            style="max-width: none"
           />
           <br />
           <sub><b>GabrielWarner</b></sub>
