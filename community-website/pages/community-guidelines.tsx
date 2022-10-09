@@ -78,7 +78,7 @@ const CommunityGuidelines: NextPage = () => {
                 <li>&emsp; - No unwelcome sexual attention.</li>
                 <li>&emsp; - Do not advocate for or encourage any of the above behavior.</li>
                 <li>&emsp; - In general, if someone asks you to stop, then stop.</li>
-                <li>&emsp; - Participate authentically and actively to contribute to this community's health and longevity.</li>
+                <li>&emsp; - Participate authentically and actively to contribute to this community&apos;s health and longevity.</li>
               </ul>
               <p>
                 Be mindful of your fellow participants and please report any cases of harassment by alerting community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
@@ -88,17 +88,17 @@ const CommunityGuidelines: NextPage = () => {
             <li>
               <b>3. Disagreements</b>
               <p>
-                Disagreements are bound to happen, primarily because of the community's diversity. 
+                Disagreements are bound to happen, primarily because of the community&apos;s diversity. 
                 The strength of the project comes from its diversity. It is, however, important that we resolve disagreements constructively. 
-                Another individual having a different perspective or viewpoint on issues doesn't mean they're wrong. 
-                Don't forget that it is human to err, and blaming each other doesn't get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+                Another individual having a different perspective or viewpoint on issues doesn&apos;t mean they&apos;re wrong. 
+                Don&apos;t forget that it is human to err, and blaming each other doesn&apos;t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
               </p>
             </li>
             <br/>
             <li>
               <b>4. Zero tolerance for harassment and unacceptable behavior</b>
               <p>
-                Be respectful of everyone's ideas and perspectives on a problem. Don't directly attack a person. 
+                Be respectful of everyone&apos;s ideas and perspectives on a problem. Don&apos;t directly attack a person. 
                 We will not tolerate any posts, comments, or messages to fellow contributors, admins, sponsors, or maintainers that are inappropriate, rude, or aggressive. 
                 This includes posts that spread misinformation and are disruptive to the communities. 
               </p>
@@ -119,7 +119,7 @@ const CommunityGuidelines: NextPage = () => {
               </p>
               <br/>
               <p>
-                However, before taking further action, we will inform the accused of the report and give them a chance to speak about it. But we will act without warning in potentially hazardous circumstances, such as persistent harassment or threats to anyone's safety.
+                However, before taking further action, we will inform the accused of the report and give them a chance to speak about it. But we will act without warning in potentially hazardous circumstances, such as persistent harassment or threats to anyone&apos;s safety.
               </p>
               <br/>
               <p>
