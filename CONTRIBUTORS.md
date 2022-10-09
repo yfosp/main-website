@@ -7,29 +7,31 @@
 -->
 
 <table>
-  <tr>
-    <td align="center">
-        <a href="https://github.com/melvincwng">
-            <img src="https://avatars.githubusercontent.com/u/77479885?v=4" width="100;" alt="melvincwng"/>
-            <br />
-            <sub><b>melvincwng</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/flawlesslys">
-            <img src="https://avatars.githubusercontent.com/u/81615152?v=4" width="100;" alt="flawlesslys"/>
-            <br />
-            <sub><b>flawlesslys</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/theadityaagnihotri">
-            <img src="https://avatars.githubusercontent.com/u/95487342?v=4" width="100;" alt="theadityaagnihotri"/>
-            <br />
-            <sub><b>theadityaagnihotri</b></sub>
-        </a>
-    </td>
-  </tr>   
+  <tbody>
+    <tr>
+      <td align="center">
+          <a href="https://github.com/melvincwng">
+              <img src="https://avatars.githubusercontent.com/u/77479885?v=4" width="100;" alt="melvincwng"/>
+              <br />
+              <sub><b>melvincwng</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/flawlesslys">
+              <img src="https://avatars.githubusercontent.com/u/81615152?v=4" width="100;" alt="flawlesslys"/>
+              <br />
+              <sub><b>flawlesslys</b></sub>
+          </a>
+      </td>
+      <td align="center">
+          <a href="https://github.com/theadityaagnihotri">
+              <img src="https://avatars.githubusercontent.com/u/95487342?v=4" width="100;" alt="theadityaagnihotri"/>
+              <br />
+              <sub><b>theadityaagnihotri</b></sub>
+          </a>
+      </td>
+    </tr>   
+  </tbody>
 </table>
 
 <!-- CONTRIBUTORS.md END -->
