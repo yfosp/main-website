@@ -214,7 +214,7 @@ const CommunityMembers: NextPage = () => {
                     target="_blank"
                     rel="noopener noreferrer">
                     <img
-                      src="https://avatars.githubusercontent.com/u/77479885?v=4"
+                      src="https://avatars.githubusercontent.com/u/55396585?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
@@ -284,7 +284,7 @@ const CommunityMembers: NextPage = () => {
                     target="_blank"
                     rel="noopener noreferrer">
                     <img
-                      src="https://avatars.githubusercontent.com/u/77479885?v=4"
+                      src="https://avatars.githubusercontent.com/u/32404201?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
@@ -492,7 +492,7 @@ const CommunityMembers: NextPage = () => {
                     target="_blank"
                     rel="noopener noreferrer">
                     <img
-                      src="4"
+                      src="https://avatars.githubusercontent.com/u/106728287?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
@@ -838,7 +838,7 @@ const CommunityMembers: NextPage = () => {
                     target="_blank"
                     rel="noopener noreferrer">
                     <img
-                      src="4"
+                      src="https://avatars.githubusercontent.com/u/107797692?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
