@@ -39,7 +39,7 @@ Be respectful of everyone's ideas and perspectives on a problem. Don't directly 
 
 Suppose a community member engages in unacceptable behavior. In that case, the community maintainers may take any action they deem appropriate, including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
-## 5. Reporting Guidelines
+## 5. Reporting guidelines
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community maintainer as soon as possible. 
 We will investigate every complaint.  We shall use our discretion to decide when and how to respond to reported incidents, with options ranging from taking no action to banning someone permanently from the project and spaces sponsored by the project.
 
