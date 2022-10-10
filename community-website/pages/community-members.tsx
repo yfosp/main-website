@@ -49,7 +49,7 @@ const CommunityMembers: NextPage = () => {
           <Link href="/">{"< Go Back"}</Link>
         </p>
 
-        <div className={styles.grid}>
+        <div className={styles.wrapperDiv}>
           <table>
             <tbody>
               <tr>
