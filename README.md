@@ -64,8 +64,10 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 
 - Fixing grammar mistakes or typos
 - Editing or suggesting changes
-- As well as contributing to the content and resources of the repo.
+- Contributing to the content and resources of the repo.
 - Projects and tutorials
+- Fix bugs/minor issues
+- Automate process of this repo with GitHub actions
 
 
 <h1 align='center'><i>Stay awesome and happy HACKING!</i></h1>
