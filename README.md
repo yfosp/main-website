@@ -68,5 +68,5 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 - Projects and tutorials
 
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+<h1 align='center'><i>Stay awesome and happy HACKING!</i></h1>
 
