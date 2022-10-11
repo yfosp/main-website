@@ -22,14 +22,14 @@ We believe we can build a welcoming and inclusive community if we all:
 - Attempt collaboration before conflict.
 - Are respectful of everyones' opinions, perspectives, viewpoints and experiences.
 - Can give and accept constructive feedback.
-- Accept responsibility and apologizing to those affected by our actions and mistakes.
+- Accept responsibility and apologize to those affected by our actions and mistakes.
 - Focus on what is best for the community.
 
 
 ## Contributing
 This project exists thanks to all the people who contribute! ❤️ 💙
 
-Check out [contributors](https://hacktoberfest2022.netlify.app/contributors)
+Shoutout to our [contributors](https://hacktoberfest2022.netlify.app/contributors) 🎉
 
 ## How to contribute? ⭐ 
 
