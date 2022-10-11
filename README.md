@@ -1,6 +1,4 @@
-# Hacktoberfest-2022🔥
-
-A community website built by the community for the community!
+# Hacktoberfest-2022🔥: Built by the community for the community!
 
 ![fork repository](https://github.com/Bennykillua/Hacktoberfest2022/blob/main/images/HackToberFest.PNG)
 
@@ -14,30 +12,60 @@ A community website built by the community for the community!
 
 Need info? Check the [website](https://hacktoberfest2022.netlify.app/)
 | or [Create an issue](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues/new)
+| or [Feature request?](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues/new)
 | | Support us on [GitHub sponsors](https://github.com/sponsors/melvincwng)
-
 
 ## Getting Started 🥳
 
-We believe we can build a welcoming and inclusive community if we adopt these behaviours:
+We believe we can build a welcoming and inclusive community if we all:
+- Use welcoming and inclusive language.
+- Attempt collaboration before conflict.
+- Are respectful of everyones' opinions, perspectives, viewpoints and experiences.
+- Can give and accept constructive feedback.
+- Accept responsibility and apologizing to those affected by our actions and mistakes.
+- Focus on what is best for the community.
 
-- Using welcoming and inclusive language.
-- Being respectful of differing opinions, perspectives, viewpoints and experiences.
-- Giving and accepting constructive feedback.
-- Attempting collaboration before conflict.
-- Accepting responsibility and apologizing to those affected by our actions and mistakes, and learning from the experience.
-- Focusing on what is best not just for us as individuals but for the community.
 
 ## Contributing
 This project exists thanks to all the people who contribute! ❤️ 💙
 
-check out [contributors](https://hacktoberfest2022.netlify.app/contributors)
+Check out [contributors](https://hacktoberfest2022.netlify.app/contributors)
 
 ## How to contribute? ⭐ 
 
-Before making any contributions, please take a look at our [Community Guidelines](https://hacktoberfest2022.netlify.app/community-guidelines)
+Before making any contributions, please take a look at our [Community Guidelines](https://hacktoberfest2022.netlify.app/community-guidelines) and take a look at the [existing Issues](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues) or create a [new issue](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues/new)!
 
 Wanna make a contribution but don't know how? Please follow the steps below.
+
+1. Install [Visual Studio Code](https://code.visualstudio.com/) and ceate a Git (not GitHub) account
+
+   * Open the terminal in Visual Studio Code
+   * Type `git --version` in a directory of your choice - you should see the version of Git that you downloaded. If you see an error, close and reopen VS Code and try again.
+   * Set your user name with 
+   `git config --global user.name "<your-first-name> <your-last-name>"` - replace the `<placeholders>` with the real values
+   * Set your email address with 
+   `git config --global user.email "<your-email-here>"`- replace the `<placeholder>` with the real values (your email address should match the one with which you signed up for your GitHub account)
+
+1.  Fork this repository. This will create a copy of this repo in your GitHub account:
+
+    * Open [Your-First-Open-Source-Project/Hacktoberfest2022](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022) (this repository)
+    * Select **Fork** and  * Make a [Fork](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/fork) --> The URL of your fork is now `https://github.com/<YOUR GITHUB ACCOUNT>/blog/`
+
+1. Clone the repository
+2. Make chnages 
+3. Commit and push your changes to your fork
+* type `git add .` (yes, there is a space (` `) between `add` and the `.`) - this adds all changes to staging area
+* type `git commit -m "YOUR COMMIT MESSAGE"` - this will commit your changes with the messages
+* type `git push` to push the changes to your remote fork
+
+9. make a Pull request
+
+## what kind of contribution can I make? ⭐
+
+- Fixing grammar mistakes or typos
+- Editing or suggesting changes
+- As well as contributing to the content and resources of the repo.
+- Projects and tutorials
 
 
 <h1 align='center'><i>Stay awesome!</i></h1>
