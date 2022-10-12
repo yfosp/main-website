@@ -1587,7 +1587,7 @@ const CommunityMembers: NextPage = () => {
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt="YouthguyZ"/>
+                      alt="Youthguy"/>
                     <br />
                     <sub>
                       <b>YouthguyZ</b>
