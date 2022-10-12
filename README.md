@@ -1,4 +1,4 @@
-# Hacktoberfest-2022🔥: Built by the community for the community!
+# Hacktoberfest 2022 🔥: Built by the community for the community!
 
 ![fork repository](https://github.com/Bennykillua/Hacktoberfest2022/blob/main/images/HackToberFest.PNG)
 
@@ -49,10 +49,10 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 1.  Fork this repository. This will create a copy of this repo in your GitHub account:
 
     * Open [Your-First-Open-Source-Project/Hacktoberfest2022](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022) (this repository)
-    * Select **Fork** and  * Make a [Fork](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/fork) --> The URL of your fork is now `https://github.com/<YOUR GITHUB ACCOUNT>/blog/`
+    * Select **Fork** and  * Make a [Fork](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/fork) --> The URL of your fork is now `https://github.com/<YOUR GITHUB ACCOUNT>/Hacktoberfest2022`
 
 1. Clone the repository
-2. Make chnages 
+2. Make changes 
 3. Commit and push your changes to your fork
 * type `git add .` (yes, there is a space (` `) between `add` and the `.`) - this adds all changes to staging area
 * type `git commit -m "YOUR COMMIT MESSAGE"` - this will commit your changes with the messages
@@ -60,7 +60,7 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 
 9. make a Pull request
 
-## what kind of contribution can I make? ⭐
+## What kind of contribution can I make? ⭐
 
 - Fixing grammar mistakes or typos
 - Editing or suggesting changes
