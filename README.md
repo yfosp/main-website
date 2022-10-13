@@ -65,7 +65,6 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 - Fixing grammar mistakes or typos
 - Editing or suggesting changes
 - Contributing to the content and resources of the repo.
-- Projects and tutorials
 - Fix bugs/minor issues
 - Automate process of this repo with GitHub actions
 
