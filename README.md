@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td>
-  This repository is an initiative which aims to help beginners kickstarting their open-source journey and successful submit their first pull request (PR) for Hacktoberfest 2022. It is also a safe space for everyone regardless of their skill level and welcome participants from around the world with different experiences, unique perspectives, and great ideas to share.
+  This repository is an initiative which aims to help beginners kickstart their open-source journey and successfully submit their first pull request (PR) for Hacktoberfest 2022. It is also a safe space for everyone regardless of their skill level and we welcome participants from all around the world with different experiences, unique perspectives, and great ideas.
 </td>
 </tr>
 </table>
