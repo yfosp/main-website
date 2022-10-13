@@ -10,21 +10,22 @@
 </tr>
 </table>
 
-Need info? Check the [website](https://hacktoberfest2022.netlify.app/)
+Need info? 
+
+Check the [website](https://hacktoberfest2022.netlify.app/)
 | or [Create an issue](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues/new)
 | or [Feature request?](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues/new)
-| | Support us on [GitHub sponsors](https://github.com/sponsors/melvincwng)
+| Support us on [GitHub sponsors](https://github.com/sponsors/melvincwng)
 
 ## Getting Started 🥳
 
 We believe we can build a welcoming and inclusive community if we all:
-- Use welcoming and inclusive language.
-- Attempt collaboration before conflict.
-- Are respectful of everyones' opinions, perspectives, viewpoints and experiences.
-- Can give and accept constructive feedback.
-- Accept responsibility and apologize to those affected by our actions and mistakes.
-- Focus on what is best for the community.
-
+- Use welcoming and inclusive language
+- Attempt collaboration before conflict
+- Are respectful of everyones' opinions, perspectives, viewpoints and experiences
+- Can give and accept constructive feedback
+- Accept responsibility and apologize to those affected by our actions and mistakes
+- Focus on what is best for the community
 
 ## Contributing
 This project exists thanks to all the people who contribute! ❤️ 💙
@@ -40,7 +41,7 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 1. Install [Visual Studio Code](https://code.visualstudio.com/) and ceate a Git (not GitHub) account
 
    * Open the terminal in Visual Studio Code
-   * Type `git --version` in a directory of your choice - you should see the version of Git that you downloaded. If you see an error, close and reopen VS Code and try again.
+   * Type `git --version` in a directory of your choice - you should see the version of Git that you downloaded. If you see an error, close and reopen VS Code and try again
    * Set your user name with 
    `git config --global user.name "<your-first-name> <your-last-name>"` - replace the `<placeholders>` with the real values
    * Set your email address with 
@@ -64,7 +65,7 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 
 - Fixing grammar mistakes or typos
 - Editing or suggesting changes
-- Contributing to the content and resources of the repo.
+- Contributing to the content and resources of the repo
 - Fix bugs/minor issues
 - Automate process of this repo with GitHub actions
 
