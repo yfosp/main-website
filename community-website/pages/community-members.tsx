@@ -1509,7 +1509,7 @@ const CommunityMembers: NextPage = () => {
                 </td>
               </tr>
               <tr>
-              <td align="center">
+                <td align="center">
                   <a
                     href="https://github.com/VaibhavWadibhasme"
                     target="_blank"
@@ -1591,6 +1591,42 @@ const CommunityMembers: NextPage = () => {
                     <br />
                     <sub>
                       <b>YouthguyZ</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/CasualAnouar"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/96020760?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="CasualAnouar"/>
+                    <br />
+                    <sub>
+                      <b>CasualAnouar</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a
+                    href="https://github.com/hiiruki"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/36108013?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="hiiruki"/>
+                    <br />
+                    <sub>
+                      <b>hiiruki</b>
                     </sub>
                   </a>
                 </td>
