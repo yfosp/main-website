@@ -58,8 +58,7 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 * type `git add .` (yes, there is a space (` `) between `add` and the `.`) - this adds all changes to staging area
 * type `git commit -m "YOUR COMMIT MESSAGE"` - this will commit your changes with the messages
 * type `git push` to push the changes to your remote fork
-
-6. make a Pull request
+6. Make a Pull request
 
 ## What kind of contribution can I make? 💖
 
