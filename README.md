@@ -27,7 +27,7 @@ We believe we can build a welcoming and inclusive community if we all:
 - Accept responsibility and apologize to those affected by our actions and mistakes
 - Focus on what is best for the community
 
-## Contributing 🎉
+## Contributors 🎉
 This project exists thanks to all the people who contribute! ❤️ 💙
 
 Shoutout to our [contributors](https://hacktoberfest2022.netlify.app/contributors) 🎉
