@@ -48,16 +48,18 @@ Wanna make a contribution but don't know how? Please follow the steps below.
    `git config --global user.email "<your-email-here>"`- replace the `<placeholder>` with the real values (your email address should match the one with which you signed up for your GitHub account)
 
 2.  Fork this repository. This will create a copy of this repo in your GitHub account:
-
     * Open [Your-First-Open-Source-Project/Hacktoberfest2022](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022) (this repository)
     * Select **Fork** and  * Make a [Fork](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/fork) --> The URL of your fork is now `https://github.com/<YOUR GITHUB ACCOUNT>/Hacktoberfest2022`
 
 3. Clone the repository
+
 4. Make changes 
+
 5. Commit and push your changes to your fork
-* type `git add .` (yes, there is a space (` `) between `add` and the `.`) - this adds all changes to staging area
-* type `git commit -m "YOUR COMMIT MESSAGE"` - this will commit your changes with the messages
-* type `git push` to push the changes to your remote fork
+    * type `git add .` (yes, there is a space (` `) between `add` and the `.`) - this adds all changes to staging area
+    * type `git commit -m "YOUR COMMIT MESSAGE"` - this will commit your changes with the messages
+    * type `git push` to push the changes to your remote fork
+  
 6. Make a Pull request
 
 ## What kind of contributions can I make? 💖
