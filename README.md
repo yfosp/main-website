@@ -69,6 +69,9 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 - Fix bugs/minor issues
 - Automate process of this repo with GitHub actions
 
+## Status
+- The community Website is fully developed as of 16/10/2022
+- We are still accepting enhancements/bug fixes to this community codebase till the end of Hacktoberfest 2022 (31st Oct)
+- In the meantime, don't forget to **follow me**, **star this repo** and **join/follow this organization**
 
 <h1 align='center'><i>Stay awesome and happy HACKING!</i></h1>
-
