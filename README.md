@@ -60,7 +60,7 @@ Wanna make a contribution but don't know how? Please follow the steps below.
     * type `git commit -m "YOUR COMMIT MESSAGE"` - this will commit your changes with the messages
     * type `git push` to push the changes to your remote fork
   
-6. Make a Pull request
+6. Make a Pull Request
 
 ## What kind of contributions can I make? 💖
 
@@ -75,4 +75,4 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 - We are still accepting enhancements/bug fixes to this community codebase till the end of Hacktoberfest 2022 (31st Oct)
 - In the meantime, don't forget to **follow me [@melvincwng](https://github.com/melvincwng)**, **star this repo** and **join/follow this organization**
 
-<h1 align='center'><i>Stay awesome and Happy Hacktoberfest 2022 🎃🎃🎃!</i></h1>
+<h1 align='center'><i>Stay awesome & Happy Hacktoberfest 2022 🎃🎃🎃!</i></h1>
