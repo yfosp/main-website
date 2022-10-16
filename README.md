@@ -27,7 +27,7 @@ We believe we can build a welcoming and inclusive community if we all:
 - Accept responsibility and apologize to those affected by our actions and mistakes
 - Focus on what is best for the community
 
-## Contributing
+## Contributing 🎉
 This project exists thanks to all the people who contribute! ❤️ 💙
 
 Shoutout to our [contributors](https://hacktoberfest2022.netlify.app/contributors) 🎉
@@ -61,7 +61,7 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 
 9. make a Pull request
 
-## What kind of contribution can I make? ⭐
+## What kind of contribution can I make? 💖
 
 - Fixing grammar mistakes or typos
 - Editing or suggesting changes
@@ -69,8 +69,8 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 - Fix bugs/minor issues
 - Automate process of this repo with GitHub actions
 
-## Status
-- The community Website is fully developed as of 16/10/2022
+## Status 🌐
+- The community website is fully developed as of 16/10/2022
 - We are still accepting enhancements/bug fixes to this community codebase till the end of Hacktoberfest 2022 (31st Oct)
 - In the meantime, don't forget to **follow me**, **star this repo** and **join/follow this organization**
 
