@@ -15,7 +15,7 @@ const Home: NextPage = () => {
       strings: [
         "Get started with Your First Open Source Project!",
         "Submit your first open source contribution now!",
-        "Join our awesome community of 91 members!",
+        "Join our awesome community of 98 members!",
       ],
       typeSpeed: 75,
       backSpeed: 75,
@@ -31,12 +31,12 @@ const Home: NextPage = () => {
   }, []);
 
   useEffect(() => {
-    const confettiSettings = { target: 'confetti-canvas' };
+    const confettiSettings = { target: "confetti-canvas" };
     const confetti = new ConfettiGenerator(confettiSettings);
     confetti.render();
 
     return () => confetti.clear();
-  }, [])
+  }, []);
 
   return (
     <div className={styles.container}>
@@ -46,8 +46,11 @@ const Home: NextPage = () => {
         <link rel="icon" href="/earth-asia-solid.svg" />
       </Head>
 
-      <canvas id="confetti-canvas" className={`${styles.canvas} bg-white dark:bg-black`} style={{}}></canvas>
-
+      <canvas
+        id="confetti-canvas"
+        className={`${styles.canvas} bg-white dark:bg-black`}
+        style={{}}
+      ></canvas>
 
       <main className={`${styles.main} text-black dark:text-white`}>
         <NavBar></NavBar>
@@ -64,7 +67,10 @@ const Home: NextPage = () => {
         </h1>
 
         <p className={styles.description}>
-          <code className={`${styles.code} dark:bg-black`} id="typing-element"></code>
+          <code
+            className={`${styles.code} dark:bg-black`}
+            id="typing-element"
+          ></code>
         </p>
 
         <div className={styles.grid}>
@@ -92,14 +98,17 @@ const Home: NextPage = () => {
             </a>
           </Link>
 
-          <Link href="https://github.com/Your-First-Open-Source-Project" passHref>
+          <Link
+            href="https://github.com/Your-First-Open-Source-Project"
+            passHref
+          >
             <a
               className={styles.card}
               target="_blank"
               rel="noopener noreferrer"
             >
               <h2>Find us on GitHub &rarr;</h2>
-              <p>Join our wonderful & growing community of 91 people 💖</p>
+              <p>Join our wonderful & growing community of 98 people 💖</p>
             </a>
           </Link>
         </div>
