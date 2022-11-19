@@ -1947,6 +1947,44 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Klaus-CLAY"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/118034626?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Klaus-CLAY"
+                    />
+                    <br />
+                    <sub>
+                      <b>Klaus-CLAY</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/armanmoztar"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/75223820?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="armanmoztar"
+                    />
+                    <br />
+                    <sub>
+                      <b>armanmoztar</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
