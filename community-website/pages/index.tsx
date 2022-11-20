@@ -94,7 +94,10 @@ const Home: NextPage = () => {
           <Link href="./community-guidelines">
             <a className={styles.card}>
               <h2>Our Guidelines &rarr;</h2>
-              <p>The Code of Conduct that everyone has to follow 👨‍💻</p>
+              <p>
+                The Code of Conduct that everyone has to follow in the
+                organization 👨‍💻
+              </p>
             </a>
           </Link>
 
