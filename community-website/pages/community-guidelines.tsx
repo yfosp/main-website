@@ -174,8 +174,9 @@ const CommunityGuidelines: NextPage = () => {
                 If you are subject to or witness unacceptable behavior, or have
                 any other concerns, please notify the organization owner
                 @melvincwng as soon as possible via email at:
-                melvin.ng@outlook.sg
+                melvin.ng@outlook.sg.
               </p>
+              <br />
               <p>
                 Each complaint will be investigated. We shall use our discretion
                 to decide when and how to respond to reported incidents, with
