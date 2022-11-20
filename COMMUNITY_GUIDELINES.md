@@ -26,7 +26,7 @@ Therefore, you are to work in a manner that includes but is not restricted to:
 
 1. Don't use violent threats or language directed against another individual.
 2. Consider collaboration before conflict.
-3. No discriminatory jokes, insults, and language. This includes discriminatory behavior and speech, especially racist, homophobic, sexist, ageist, or demeaning words/comments.
+3. No discriminatory jokes, insults, and language. This includes discriminatory behavior and speech, especially racist, homophobic, sexist, ageist, or demeaning words.
 4. Do not post sexually explicit or violent material.
 5. No unwelcome sexual attention.
 6. Do not advocate for or encourage any of the above behavior.
