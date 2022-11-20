@@ -41,7 +41,7 @@ const CommunityMembers: NextPage = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Our community members 💖
+            Our Community Members 💖
           </a>
         </h1>
 
@@ -1982,6 +1982,25 @@ const CommunityMembers: NextPage = () => {
                     <br />
                     <sub>
                       <b>armanmoztar</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Rei-Suzuki1729"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/83030439?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Rei-Suzuki1729"
+                    />
+                    <br />
+                    <sub>
+                      <b>Rei-Suzuki1729</b>
                     </sub>
                   </a>
                 </td>

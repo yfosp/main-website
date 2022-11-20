@@ -15,7 +15,7 @@ const Home: NextPage = () => {
       strings: [
         "Get started with Your First Open Source Project!",
         "Submit your first open source contribution now!",
-        "Join our awesome community of 100 members!",
+        "Join our awesome community of 101 members!",
       ],
       typeSpeed: 75,
       backSpeed: 75,
@@ -94,7 +94,7 @@ const Home: NextPage = () => {
           <Link href="./community-guidelines">
             <a className={styles.card}>
               <h2>Our Guidelines &rarr;</h2>
-              <p>The community guidelines that everyone has to follow 👨‍💻</p>
+              <p>The Code of Conduct that everyone has to follow 👨‍💻</p>
             </a>
           </Link>
 
@@ -108,7 +108,7 @@ const Home: NextPage = () => {
               rel="noopener noreferrer"
             >
               <h2>Find us on GitHub &rarr;</h2>
-              <p>Join our wonderful & growing community of 100 people 💖</p>
+              <p>Join our wonderful & growing community of 101 people 💖</p>
             </a>
           </Link>
         </div>
