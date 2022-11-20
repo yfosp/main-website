@@ -203,7 +203,7 @@ const CommunityGuidelines: NextPage = () => {
                 >
                   melvincwng
                 </a>{" "}
-                &
+                &{" "}
                 <a
                   href="https://github.com/Bennykillua"
                   target="_blank"
