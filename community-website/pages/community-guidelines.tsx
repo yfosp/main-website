@@ -50,13 +50,13 @@ const CommunityGuidelines: NextPage = () => {
 
         <div>
           <p>
-            Like any other open-source project, this project is made up of a
-            diverse group of individuals from around the globe who work on every
-            facet of its goals. This diversity is one of its strengths, but it
-            can also lead to communication issues and unhappiness. To that end,
-            we have a few ground rules that we ask people to adhere to. This
-            code applies equally to founders, mentors and those seeking help and
-            guidance.
+            Like any other open-source organization, this organization is made
+            up of a diverse group of individuals from around the globe who work
+            on every facet of its goals. This diversity is one of its strengths,
+            but it can also lead to communication issues and unhappiness. To
+            that end, we have a few ground rules that we ask people to adhere
+            to. This code applies equally to founders, mentors and those seeking
+            help and guidance.
           </p>
           <br />
           <p>

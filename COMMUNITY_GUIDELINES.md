@@ -1,6 +1,6 @@
 # Community Guidelines (Code of Conduct)
 
-Like any other open-source project, this project is made up of a diverse group of individuals from around the globe who work on every facet of its goals. This diversity is one of its strengths, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to founders, mentors and those seeking help and guidance.
+Like any other open-source organization, this organization is made up of a diverse group of individuals from around the globe who work on every facet of its goals. This diversity is one of its strengths, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to founders, mentors and those seeking help and guidance.
 
 We take pride in being inclusive and treating everyone with respect,
 regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or similar personal characteristics.
@@ -15,7 +15,7 @@ We want to create a community where everyone feels welcome and receives support 
 Thus, we believe we can achieve this by building a positive, welcoming environment where everyone feels safe to share ideas, thoughts, and feedback.
 As you contribute, try to be supportive, respect individual opinions, and report inappropriate posts if needed.
 
-Respectful and constructive communication is encouraged and appreciated. We believe that everyone has the right to express their opinions and that constructive criticism is essential to the growth of the project. 
+Respectful and constructive communication is encouraged and appreciated. We believe that everyone has the right to express their opinions and that constructive criticism is essential to the growth of the project.
 
 However, we also believe that everyone has the right to have their opinions heard, and that any form of harassment or personal attacks is completely unacceptable.
 
