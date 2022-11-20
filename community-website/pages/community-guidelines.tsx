@@ -108,7 +108,8 @@ const CommunityGuidelines: NextPage = () => {
                 <li>
                   &emsp; - No discriminatory jokes, insults, and language. This
                   includes discriminatory behavior and speech, especially
-                  racist, homophobic, sexist, or demeaning words.
+                  racist, homophobic, sexist, ageist, or demeaning
+                  words/comments.
                 </li>
                 <li>
                   &emsp; - Do not post sexually explicit or violent material.
