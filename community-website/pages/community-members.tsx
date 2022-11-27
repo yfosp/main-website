@@ -2122,44 +2122,25 @@ const CommunityMembers: NextPage = () => {
                 </td>
                 <td align="center">
                   <a
-                    href="https://github.com/armanmoztar"
+                    href="https://github.com/basantaad817"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="https://avatars.githubusercontent.com/u/75223820?v=4"
+                      src="https://avatars.githubusercontent.com/u/89241166?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt="armanmoztar"
+                      alt="basantaad817"
                     />
                     <br />
                     <sub>
-                      <b>armanmoztar</b>
+                      <b>basantaad817</b>
                     </sub>
                   </a>
                 </td>
               </tr>
               <tr>
-                <td align="center">
-                  <a
-                    href="https://github.com/Rei-Suzuki1729"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <img
-                      src="https://avatars.githubusercontent.com/u/83030439?v=4"
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt="Rei-Suzuki1729"
-                    />
-                    <br />
-                    <sub>
-                      <b>Rei-Suzuki1729</b>
-                    </sub>
-                  </a>
-                </td>
                 <td align="center">
                   <a
                     href="https://github.com/fykaa"
@@ -2176,25 +2157,6 @@ const CommunityMembers: NextPage = () => {
                     <br />
                     <sub>
                       <b>fykaa</b>
-                    </sub>
-                  </a>
-                </td>
-                <td align="center">
-                  <a
-                    href="https://github.com/basantaad817"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <img
-                      src="https://avatars.githubusercontent.com/u/89241166?v=4"
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt="basantaad817"
-                    />
-                    <br />
-                    <sub>
-                      <b>basantaad817</b>
                     </sub>
                   </a>
                 </td>
