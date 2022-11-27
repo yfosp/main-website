@@ -2024,6 +2024,181 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
               </tr>
+              <tr>
+                <td align="center">
+                  <a
+                    href="https://github.com/RyanWong25"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/30208848?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="RyanWong25"
+                    />
+                    <br />
+                    <sub>
+                      <b>RyanWong25</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Mubashir-Siddiqui"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/69625400?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Mubashir-Siddiqui"
+                    />
+                    <br />
+                    <sub>
+                      <b>Mubashir-Siddiqui</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/ChallengeHandler"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/115472206?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="ChallengeHandler"
+                    />
+                    <br />
+                    <sub>
+                      <b>ChallengeHandler</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/sagar-7227"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/75033935?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="sagar-7227"
+                    />
+                    <br />
+                    <sub>
+                      <b>sagar-7227</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/amalbenny"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/77718636?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="amalbenny"
+                    />
+                    <br />
+                    <sub>
+                      <b>amalbenny</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/armanmoztar"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/75223820?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="armanmoztar"
+                    />
+                    <br />
+                    <sub>
+                      <b>armanmoztar</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a
+                    href="https://github.com/Rei-Suzuki1729"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/83030439?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Rei-Suzuki1729"
+                    />
+                    <br />
+                    <sub>
+                      <b>Rei-Suzuki1729</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/fykaa"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/97490463?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="fykaa"
+                    />
+                    <br />
+                    <sub>
+                      <b>fykaa</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/basantaad817"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/89241166?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="basantaad817"
+                    />
+                    <br />
+                    <sub>
+                      <b>basantaad817</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
             </tbody>
           </table>
         </div>
