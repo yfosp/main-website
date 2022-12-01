@@ -2103,7 +2103,7 @@ const CommunityMembers: NextPage = () => {
                 </td>
                 <td align="center">
                   <a
-                    href="https://github.com/amalbenny"
+                    href="https://github.com/amalvelloor"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -2112,11 +2112,11 @@ const CommunityMembers: NextPage = () => {
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt="amalbenny"
+                      alt="amalvelloor"
                     />
                     <br />
                     <sub>
-                      <b>amalbenny</b>
+                      <b>amalvelloor</b>
                     </sub>
                   </a>
                 </td>
@@ -2157,6 +2157,25 @@ const CommunityMembers: NextPage = () => {
                     <br />
                     <sub>
                       <b>fykaa</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/sminio"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/98472878?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="sminio"
+                    />
+                    <br />
+                    <sub>
+                      <b>sminio</b>
                     </sub>
                   </a>
                 </td>
