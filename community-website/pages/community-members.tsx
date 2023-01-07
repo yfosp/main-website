@@ -2179,6 +2179,198 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Abeer-Abdelhamid"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/107847711?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Abeer-Abdelhamid"
+                    />
+                    <br />
+                    <sub>
+                      <b>Abeer-Abdelhamid</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/MopholosiCodes"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/99001093?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="MopholosiCodes"
+                    />
+                    <br />
+                    <sub>
+                      <b>MopholosiCodes</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/perseus6"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/102739742?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="perseus6"
+                    />
+                    <br />
+                    <sub>
+                      <b>perseus6</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/ajayanuragi"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/92710715?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="ajayanuragi"
+                    />
+                    <br />
+                    <sub>
+                      <b>ajayanuragi</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a
+                    href="https://github.com/007aneesh"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/90706436?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="007aneesh"
+                    />
+                    <br />
+                    <sub>
+                      <b>007aneesh</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Chandra-Sekhar-Bala"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/57448981?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Chandra-Sekhar-Bala"
+                    />
+                    <br />
+                    <sub>
+                      <b>Chandra-Sekhar-Bala</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/leyr1112"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/95309117?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="leyr1112"
+                    />
+                    <br />
+                    <sub>
+                      <b>leyr1112</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/frantic-rabbit"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/114557566?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="frantic-rabbit"
+                    />
+                    <br />
+                    <sub>
+                      <b>frantic-rabbit</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/d3j1x"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/119496452?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="d3j1x"
+                    />
+                    <br />
+                    <sub>
+                      <b>d3j1x</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/trendy0413"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/114677824?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="trendy0413"
+                    />
+                    <br />
+                    <sub>
+                      <b>trendy0413</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
