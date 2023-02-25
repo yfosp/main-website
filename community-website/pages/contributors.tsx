@@ -36,7 +36,7 @@ const Contributors: NextPage = () => {
 
         <h1 className={styles.title}>
           <a
-            href="https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/blob/main/CONTRIBUTORS.md"
+            href="https://github.com/Your-First-Open-Source-Project/main-website/blob/main/CONTRIBUTORS.md"
             target="_blank"
             rel="noopener noreferrer"
           >
