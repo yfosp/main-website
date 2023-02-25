@@ -58,7 +58,7 @@ const Home: NextPage = () => {
         <h1 className={styles.title}>
           Welcome to{" "}
           <a
-            href="https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022"
+            href="https://github.com/Your-First-Open-Source-Project/main-website"
             target="_blank"
             rel="noopener noreferrer"
           >

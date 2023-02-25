@@ -1,6 +1,6 @@
 # Hacktoberfest 2022 🔥: Built by the community for the community!
 
-![fork repository](https://github.com/Bennykillua/Hacktoberfest2022/blob/main/images/HackToberFest.PNG)
+![fork repository](./images/HackToberFest.PNG)
 
 <table>
 <tr>
@@ -13,8 +13,8 @@
 Need info? 
 
 Check the [website](https://yfosp.netlify.app/)
-| or [Create an issue](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues/new)
-| or [Feature request?](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues/new)
+| or [Create an issue](https://github.com/Your-First-Open-Source-Project/main-website/issues/new)
+| or [Feature request?](https://github.com/Your-First-Open-Source-Project/main-website/issues/new)
 | Support us on [GitHub sponsors](https://github.com/sponsors/melvincwng)
 
 ## Getting Started 🥳
@@ -34,7 +34,7 @@ Shoutout to our [contributors](https://yfosp.netlify.app/contributors) 🎉
 
 ## How to contribute? ⭐ 
 
-Before making any contributions, please take a look at our [Community Guidelines](https://yfosp.netlify.app/community-guidelines) and take a look at the [existing Issues](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues) or create a [new issue](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues/new)!
+Before making any contributions, please take a look at our [Community Guidelines](https://yfosp.netlify.app/community-guidelines) and take a look at the [existing Issues](https://github.com/Your-First-Open-Source-Project/main-website/issues) or create a [new issue](https://github.com/Your-First-Open-Source-Project/main-website/issues/new)!
 
 Wanna make a contribution but don't know how? Please follow the steps below.
 
@@ -48,8 +48,8 @@ Wanna make a contribution but don't know how? Please follow the steps below.
    `git config --global user.email "<your-email-here>"`- replace the `<placeholder>` with the real values (your email address should match the one with which you signed up for your GitHub account)
 
 2.  Fork this repository. This will create a copy of this repo in your GitHub account:
-    * Open [Your-First-Open-Source-Project/Hacktoberfest2022](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022) (this repository)
-    * Select **Fork** and  * Make a [Fork](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/fork) --> The URL of your fork is now `https://github.com/<YOUR GITHUB ACCOUNT>/Hacktoberfest2022`
+    * Open [Your-First-Open-Source-Project/main-website](https://github.com/Your-First-Open-Source-Project/main-website) (this repository)
+    * Select **Fork** and  * Make a [Fork](https://github.com/Your-First-Open-Source-Project/main-website/fork) --> The URL of your fork is now `https://github.com/<YOUR GITHUB ACCOUNT>/main-website`
 
 3. Clone the repository
 
