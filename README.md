@@ -12,7 +12,7 @@
 
 Need info? 
 
-Check the [website](https://hacktoberfest2022.netlify.app/)
+Check the [website](https://yfosp.netlify.app/)
 | or [Create an issue](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues/new)
 | or [Feature request?](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues/new)
 | Support us on [GitHub sponsors](https://github.com/sponsors/melvincwng)
@@ -30,11 +30,11 @@ We believe we can build a welcoming and inclusive community if we all:
 ## Contributors 🎉
 This project exists thanks to all the people who contribute! ❤️ 💙
 
-Shoutout to our [contributors](https://hacktoberfest2022.netlify.app/contributors) 🎉
+Shoutout to our [contributors](https://yfosp.netlify.app/contributors) 🎉
 
 ## How to contribute? ⭐ 
 
-Before making any contributions, please take a look at our [Community Guidelines](https://hacktoberfest2022.netlify.app/community-guidelines) and take a look at the [existing Issues](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues) or create a [new issue](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues/new)!
+Before making any contributions, please take a look at our [Community Guidelines](https://yfosp.netlify.app/community-guidelines) and take a look at the [existing Issues](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues) or create a [new issue](https://github.com/Your-First-Open-Source-Project/Hacktoberfest2022/issues/new)!
 
 Wanna make a contribution but don't know how? Please follow the steps below.
 
