@@ -2584,6 +2584,65 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/mibrahim97"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/106470649?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="mibrahim97"
+                    />
+                    <br />
+                    <sub>
+                      <b>mibrahim97</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a
+                    href="https://github.com/AhorIsaac"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/78865708?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="AhorIsaac"
+                    />
+                    <br />
+                    <sub>
+                      <b>AhorIsaac</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/WebDev717"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/108454005?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="WebDev717"
+                    />
+                    <br />
+                    <sub>
+                      <b>WebDev717</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
