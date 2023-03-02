@@ -2643,6 +2643,25 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/uuc110"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/44457947?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="uuc110"
+                    />
+                    <br />
+                    <sub>
+                      <b>uuc110</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
