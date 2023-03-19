@@ -2681,6 +2681,65 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/x0samnan"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/92310785?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="x0samnan"
+                    />
+                    <br />
+                    <sub>
+                      <b>x0samnan</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Viveksati5143"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/100852245?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Viveksati5143"
+                    />
+                    <br />
+                    <sub>
+                      <b>Viveksati5143</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a
+                    href="https://github.com/HMAHD"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/99458905?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="HMAHD"
+                    />
+                    <br />
+                    <sub>
+                      <b>HMAHD</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
