@@ -2740,6 +2740,25 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Mohamed-khattab"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/91610279?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Mohamed-khattab"
+                    />
+                    <br />
+                    <sub>
+                      <b>Mohamed-khattab</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
