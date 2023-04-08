@@ -2778,6 +2778,103 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/bagasstrongman"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/54809734?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="bagasstrongman"
+                    />
+                    <br />
+                    <sub>
+                      <b>bagasstrongman</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/topmagician"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/97234185?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="topmagician"
+                    />
+                    <br />
+                    <sub>
+                      <b>topmagician</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Sinrez"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/52866738?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Sinrez"
+                    />
+                    <br />
+                    <sub>
+                      <b>Sinrez</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a
+                    href="https://github.com/zakaria850"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/58142346?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="zakaria850"
+                    />
+                    <br />
+                    <sub>
+                      <b>zakaria850</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/DeathwingIN"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/90399649?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="DeathwingIN"
+                    />
+                    <br />
+                    <sub>
+                      <b>DeathwingIN</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
