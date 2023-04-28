@@ -2875,6 +2875,122 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/yogeshselvarajan"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/77218020?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="yogeshselvarajan"
+                    />
+                    <br />
+                    <sub>
+                      <b>yogeshselvarajan</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/hateryx"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/112183555?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="hateryx"
+                    />
+                    <br />
+                    <sub>
+                      <b>hateryx</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/robert5313"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/97959136?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="robert5313"
+                    />
+                    <br />
+                    <sub>
+                      <b>robert5313</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/BioCoderR"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/30660992?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="BioCoderR"
+                    />
+                    <br />
+                    <sub>
+                      <b>BioCoderR</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+              <td align="center">
+                  <a
+                    href="https://github.com/kennisnutz"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/43320702?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="kennisnutz"
+                    />
+                    <br />
+                    <sub>
+                      <b>kennisnutz</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Younis-Ahmed"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/23105954?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Younis-Ahmed"
+                    />
+                    <br />
+                    <sub>
+                      <b>Younis-Ahmed</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
