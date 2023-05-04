@@ -2991,6 +2991,25 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/amitprajapati001"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/95964698?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="amitprajapati001"
+                    />
+                    <br />
+                    <sub>
+                      <b>amitprajapati001</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
