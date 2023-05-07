@@ -2953,7 +2953,7 @@ const CommunityMembers: NextPage = () => {
                 </td>
               </tr>
               <tr>
-              <td align="center">
+                <td align="center">
                   <a
                     href="https://github.com/kennisnutz"
                     target="_blank"
@@ -3007,6 +3007,25 @@ const CommunityMembers: NextPage = () => {
                     <br />
                     <sub>
                       <b>amitprajapati001</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Lil-Adonis"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/77722965?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Lil-Adonis"
+                    />
+                    <br />
+                    <sub>
+                      <b>Lil-Adonis</b>
                     </sub>
                   </a>
                 </td>
