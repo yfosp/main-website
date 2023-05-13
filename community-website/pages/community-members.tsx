@@ -3029,6 +3029,65 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/shalinialisha"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/123770923?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="shalinialisha"
+                    />
+                    <br />
+                    <sub>
+                      <b>shalinialisha</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/sauravkumar8178"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/66455423?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="sauravkumar8178"
+                    />
+                    <br />
+                    <sub>
+                      <b>sauravkumar8178</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a
+                    href="https://github.com/PieroCaramutt"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/105454518?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="PieroCaramutt"
+                    />
+                    <br />
+                    <sub>
+                      <b>PieroCaramutt</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
