@@ -38,7 +38,7 @@ Before making any contributions, please take a look at our [Community Guidelines
 
 Wanna make a contribution but don't know how? Please follow the steps below.
 
-1. Install [Visual Studio Code](https://code.visualstudio.com/) and ceate a Git (not GitHub) account
+1. Install [Visual Studio Code](https://code.visualstudio.com/) and create a Git (not GitHub) account
 
    * Open the terminal in Visual Studio Code
    * Type `git --version` in a directory of your choice - you should see the version of Git that you downloaded. If you see an error, close and reopen VS Code and try again
