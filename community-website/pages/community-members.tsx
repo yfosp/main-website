@@ -3088,6 +3088,44 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Kwamecody"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/111431959?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Kwamecody"
+                    />
+                    <br />
+                    <sub>
+                      <b>Kwamecody</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/prettyblueberry"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/121964338?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="prettyblueberry"
+                    />
+                    <br />
+                    <sub>
+                      <b>prettyblueberry</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
