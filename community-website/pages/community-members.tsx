@@ -3126,6 +3126,44 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/mrepol742"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/62317165?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="mrepol742"
+                    />
+                    <br />
+                    <sub>
+                      <b>mrepol742</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/imbharat420"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/51924618?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="imbharat420"
+                    />
+                    <br />
+                    <sub>
+                      <b>imbharat420</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
