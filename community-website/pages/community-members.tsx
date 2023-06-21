@@ -3164,6 +3164,25 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/SuryodayABM"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/133846974?s=400&u=236d89e75338a2a488a9ec59f7b2cd7826147ca4&v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="SuryodayABM"
+                    />
+                    <br />
+                    <sub>
+                      <b>SuryodayABM</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
