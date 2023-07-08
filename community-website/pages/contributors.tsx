@@ -131,6 +131,21 @@ const Contributors: NextPage = () => {
                     </a>
                 </td>
               </tr>
+              <tr>
+                <td align="center" className={styles.tableData}>
+                    <a href="https://github.com/SuryodayABM" target="_blank" rel="noopener noreferrer">
+                      <img 
+                        src="https://avatars.githubusercontent.com/u/133846974?v=4" 
+                        width="85" 
+                        height="85" 
+                        alt="SuryodayABM"
+                        className={styles.profileImage}
+                      />
+                      <br />
+                      <sub><b>SuryodayABM</b></sub>
+                    </a>
+                </td>
+              </tr>
             </tbody>   
           </table>
         </div>

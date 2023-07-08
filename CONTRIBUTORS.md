@@ -75,6 +75,19 @@
           <sub><b>Mesfrum</b></sub>
         </a>
       </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/SuryodayABM" target="_blank" rel="noopener noreferrer">
+          <img 
+            src="https://avatars.githubusercontent.com/u/133846974?v=4"
+            width="85" 
+            alt="SuryodayABM"
+          />
+          <br />
+          <sub><b>SuryodayABM</b></sub>
+        </a>
+      </td>
     </tr>   
   </tbody>
 </table>
