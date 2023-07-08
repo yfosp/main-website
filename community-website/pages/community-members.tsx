@@ -3171,7 +3171,7 @@ const CommunityMembers: NextPage = () => {
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="https://avatars.githubusercontent.com/u/133846974?s=400&u=236d89e75338a2a488a9ec59f7b2cd7826147ca4&v=4"
+                      src="https://avatars.githubusercontent.com/u/133846974?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
@@ -3180,6 +3180,122 @@ const CommunityMembers: NextPage = () => {
                     <br />
                     <sub>
                       <b>SuryodayABM</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a
+                    href="https://github.com/Silent-Watcher"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/91375198?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Silent-Watcher"
+                    />
+                    <br />
+                    <sub>
+                      <b>Silent-Watcher</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/akshatgadodia"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/59470728?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="akshatgadodia"
+                    />
+                    <br />
+                    <sub>
+                      <b>akshatgadodia</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/harsadas"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/76080913?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="harsadas"
+                    />
+                    <br />
+                    <sub>
+                      <b>harsadas</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Aakarsh911"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/64592883?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Aakarsh911"
+                    />
+                    <br />
+                    <sub>
+                      <b>Aakarsh911</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/anurag12-webster"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/75563673?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="anurag12-webster"
+                    />
+                    <br />
+                    <sub>
+                      <b>anurag12-webster</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/mnamesujit"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/129402570?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="mnamesujit"
+                    />
+                    <br />
+                    <sub>
+                      <b>mnamesujit</b>
                     </sub>
                   </a>
                 </td>
