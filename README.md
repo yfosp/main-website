@@ -1,4 +1,4 @@
-# 'Your First Open Source Project' Community Website 🙌
+# 'Your First Open Source Project' Community Website
 
 A community-driven initiative built by the community for the community during Hacktoberfest 2022 🔥
 
