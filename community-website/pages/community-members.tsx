@@ -3320,6 +3320,25 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/sushantjha78"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/64401703?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="sushantjha78"
+                    />
+                    <br />
+                    <sub>
+                      <b>sushantjha78</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
