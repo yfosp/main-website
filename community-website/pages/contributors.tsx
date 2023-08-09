@@ -9,17 +9,17 @@ import NavBar from "../components/NavBar";
 import { truncateNames } from "../utils/utils";
 
 const Contributors: NextPage = () => {
-  
+
   useEffect(() => {
     truncateNames();
-    
+
     const confettiSettings = { target: 'confetti-canvas' };
     const confetti = new ConfettiGenerator(confettiSettings);
     confetti.render();
 
     return () => confetti.clear();
   }, [])
-  
+
   return (
     <div className={styles.container}>
       <Head>
@@ -54,11 +54,11 @@ const Contributors: NextPage = () => {
               <tr>
                 <td align="center" className={styles.tableData}>
                     <a href="https://github.com/melvincwng" target="_blank" rel="noopener noreferrer">
-                      <img 
-                        src="https://avatars.githubusercontent.com/u/77479885?v=4" 
-                        width="85" 
-                        height="85" 
-                        alt="melvincwng" 
+                      <img
+                        src="https://avatars.githubusercontent.com/u/77479885?v=4"
+                        width="85"
+                        height="85"
+                        alt="melvincwng"
                         className={styles.profileImage}
                       />
                       <br />
@@ -67,10 +67,10 @@ const Contributors: NextPage = () => {
                 </td>
                 <td align="center" className={styles.tableData}>
                     <a href="https://github.com/flawlesslys" target="_blank" rel="noopener noreferrer">
-                      <img 
-                        src="https://avatars.githubusercontent.com/u/81615152?v=4" 
-                        width="85" 
-                        height="85" 
+                      <img
+                        src="https://avatars.githubusercontent.com/u/81615152?v=4"
+                        width="85"
+                        height="85"
                         alt="flawlesslys"
                         className={styles.profileImage}
                       />
@@ -80,10 +80,10 @@ const Contributors: NextPage = () => {
                 </td>
                 <td align="center" className={styles.tableData}>
                     <a href="https://github.com/theadityaagnihotri" target="_blank" rel="noopener noreferrer">
-                      <img 
-                        src="https://avatars.githubusercontent.com/u/95487342?v=4" 
-                        width="85" 
-                        height="85" 
+                      <img
+                        src="https://avatars.githubusercontent.com/u/95487342?v=4"
+                        width="85"
+                        height="85"
                         alt="theadityaagnihotri"
                         className={styles.profileImage}
                       />
@@ -93,10 +93,10 @@ const Contributors: NextPage = () => {
                 </td>
                 <td align="center" className={styles.tableData}>
                     <a href="https://github.com/GabrielWarner" target="_blank" rel="noopener noreferrer">
-                      <img 
-                        src="https://avatars.githubusercontent.com/u/98490756?v=4" 
-                        width="85" 
-                        height="85" 
+                      <img
+                        src="https://avatars.githubusercontent.com/u/98490756?v=4"
+                        width="85"
+                        height="85"
                         alt="gabrielwarner"
                         className={styles.profileImage}
                       />
@@ -106,10 +106,10 @@ const Contributors: NextPage = () => {
                 </td>
                 <td align="center" className={styles.tableData}>
                     <a href="https://github.com/Bennykillua" target="_blank" rel="noopener noreferrer">
-                      <img 
-                        src="https://avatars.githubusercontent.com/u/67695793?v=4" 
-                        width="85" 
-                        height="85" 
+                      <img
+                        src="https://avatars.githubusercontent.com/u/67695793?v=4"
+                        width="85"
+                        height="85"
                         alt="Bennykillua"
                         className={styles.profileImage}
                       />
@@ -119,10 +119,10 @@ const Contributors: NextPage = () => {
                 </td>
                 <td align="center" className={styles.tableData}>
                     <a href="https://github.com/Mesfrum" target="_blank" rel="noopener noreferrer">
-                      <img 
-                        src="https://avatars.githubusercontent.com/u/99741869?v=4" 
-                        width="85" 
-                        height="85" 
+                      <img
+                        src="https://avatars.githubusercontent.com/u/99741869?v=4"
+                        width="85"
+                        height="85"
                         alt="Mesfrum"
                         className={styles.profileImage}
                       />
@@ -134,10 +134,10 @@ const Contributors: NextPage = () => {
               <tr>
                 <td align="center" className={styles.tableData}>
                     <a href="https://github.com/SuryodayABM" target="_blank" rel="noopener noreferrer">
-                      <img 
-                        src="https://avatars.githubusercontent.com/u/133846974?v=4" 
-                        width="85" 
-                        height="85" 
+                      <img
+                        src="https://avatars.githubusercontent.com/u/133846974?v=4"
+                        width="85"
+                        height="85"
                         alt="SuryodayABM"
                         className={styles.profileImage}
                       />
@@ -145,8 +145,21 @@ const Contributors: NextPage = () => {
                       <sub><b>SuryodayABM</b></sub>
                     </a>
                 </td>
+                <td align="center" className={styles.tableData}>
+                    <a href="https://github.com/sushantjha78" target="_blank" rel="noopener noreferrer">
+                      <img
+                        src="https://avatars.githubusercontent.com/u/64401703?v=4"
+                        width="85"
+                        height="85"
+                        alt="sushantjha78"
+                        className={styles.profileImage}
+                      />
+                      <br />
+                      <sub><b>sushantjha78</b></sub>
+                    </a>
+                </td>
               </tr>
-            </tbody>   
+            </tbody>
           </table>
         </div>
       </main>

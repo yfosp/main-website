@@ -11,9 +11,9 @@
     <tr>
       <td align="center">
           <a href="https://github.com/melvincwng" target="_blank" rel="noopener noreferrer">
-              <img 
-                src="https://avatars.githubusercontent.com/u/77479885?v=4" 
-                width="85" 
+              <img
+                src="https://avatars.githubusercontent.com/u/77479885?v=4"
+                width="85"
                 alt="melvincwng"
               />
               <br />
@@ -22,20 +22,20 @@
       </td>
       <td align="center">
           <a href="https://github.com/flawlesslys" target="_blank" rel="noopener noreferrer">
-              <img 
-                src="https://avatars.githubusercontent.com/u/81615152?v=4" 
-                width="85" 
+              <img
+                src="https://avatars.githubusercontent.com/u/81615152?v=4"
+                width="85"
                 alt="flawlesslys"
               />
               <br />
               <sub><b>flawlesslys</b></sub>
-          </a>    
+          </a>
       </td>
       <td align="center">
           <a href="https://github.com/theadityaagnihotri" target="_blank" rel="noopener noreferrer">
-              <img 
-                src="https://avatars.githubusercontent.com/u/95487342?v=4" 
-                width="85" 
+              <img
+                src="https://avatars.githubusercontent.com/u/95487342?v=4"
+                width="85"
                 alt="theadityaagnihotri"
               />
               <br />
@@ -44,9 +44,9 @@
       </td>
       <td align="center">
         <a href="https://github.com/GabrielWarner" target="_blank" rel="noopener noreferrer">
-          <img 
+          <img
             src="https://avatars.githubusercontent.com/u/98490756?v=4"
-            width="85" 
+            width="85"
             alt="gabrielwarner"
           />
           <br />
@@ -55,9 +55,9 @@
       </td>
       <td align="center">
         <a href="https://github.com/Bennykillua" target="_blank" rel="noopener noreferrer">
-          <img 
+          <img
             src="https://avatars.githubusercontent.com/u/67695793?v=4"
-            width="85" 
+            width="85"
             alt="Bennykillua"
           />
           <br />
@@ -66,9 +66,9 @@
       </td>
       <td align="center">
         <a href="https://github.com/Mesfrum" target="_blank" rel="noopener noreferrer">
-          <img 
+          <img
             src="https://avatars.githubusercontent.com/u/99741869?v=4"
-            width="85" 
+            width="85"
             alt="Mesfrum"
           />
           <br />
@@ -79,16 +79,27 @@
     <tr>
       <td align="center">
         <a href="https://github.com/SuryodayABM" target="_blank" rel="noopener noreferrer">
-          <img 
+          <img
             src="https://avatars.githubusercontent.com/u/133846974?v=4"
-            width="85" 
+            width="85"
             alt="SuryodayABM"
           />
           <br />
           <sub><b>SuryodayABM</b></sub>
         </a>
       </td>
-    </tr>   
+      <td align="center">
+        <a href="https://github.com/sushantjha78" target="_blank" rel="noopener noreferrer">
+          <img
+            src="https://avatars.githubusercontent.com/u/64401703?v=4"
+            width="85"
+            alt="sushantjha78"
+          />
+          <br />
+          <sub><b>sushantjha78</b></sub>
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
