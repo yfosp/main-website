@@ -1,11 +1,13 @@
-# Hacktoberfest 2022 🔥: Built by the community for the community!
+# 'Your First Open Source Project' Community Website 🙌
 
-![fork repository](./images/HackToberFest.PNG)
+A community-driven initiative built by the community for the community during Hacktoberfest 2022 🔥
+
+![HackToberFest image](./images/HackToberFest.PNG)
 
 <table>
 <tr>
 <td>
-  This repository is an initiative which aims to help beginners kickstart their open-source journey and successfully submit their first pull request (PR) for Hacktoberfest 2022. It is also a safe space for everyone regardless of their skill level and we welcome participants from all around the world with different experiences, unique perspectives, and great ideas.
+  This repository is an initiative that aims to help beginners kickstart their open-source journey and successfully submit their first pull request (PR) for Hacktoberfest 2022. It is also a safe space for everyone regardless of their skill level and we welcome participants from all around the world with different experiences, unique perspectives, and great ideas.
 </td>
 </tr>
 </table>
@@ -22,7 +24,7 @@ Check the [website](https://yfosp.netlify.app/)
 We believe we can build a welcoming and inclusive community if we all:
 - Use welcoming and inclusive language
 - Attempt collaboration before conflict
-- Are respectful of everyones' opinions, perspectives, viewpoints and experiences
+- Are respectful of everyone's opinions, perspectives, viewpoints and experiences
 - Can give and accept constructive feedback
 - Accept responsibility and apologize to those affected by our actions and mistakes
 - Focus on what is best for the community
@@ -68,11 +70,11 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 - Editing or suggesting changes
 - Contributing to the content and resources of the repo
 - Fix bugs/minor issues
-- Automate process of this repo with GitHub actions
+- Automate the process of this repo with GitHub actions
 
 ## Status 🌐
-- The community website is built using **Next.js & TypeScript** and is also **fully developed** as of 16/10/2022
-- We are still accepting enhancements/bug fixes to this community codebase till the end of Hacktoberfest 2022 (31st Oct)
-- In the meantime, don't forget to **follow me [@melvincwng](https://github.com/melvincwng)**, **star this repo** and **[join/follow our organization](https://github.com/Your-First-Open-Source-Project)**
+- The community website is **fully developed** and built using **Next.js & TypeScript** as of 16/10/2022
+- Enhancements or bug fixes to this community codebase are still accepted
+- Don't forget to **follow me [@melvincwng](https://github.com/melvincwng)**, **star this repo**, and **[join/follow our organization](https://github.com/Your-First-Open-Source-Project)**
 
 <h1 align='center'><i>Stay awesome & Happy Hacktoberfest 2022 🎃🎃🎃!</i></h1>
