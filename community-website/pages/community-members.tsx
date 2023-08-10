@@ -635,7 +635,7 @@ const CommunityMembers: NextPage = () => {
               <tr>
                 <td align="center">
                   <a
-                    href="https://github.com/flawlesslys"
+                    href="https://github.com/pink-bean"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -644,11 +644,11 @@ const CommunityMembers: NextPage = () => {
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt="flawlesslys"
+                      alt="pink-bean"
                     />
                     <br />
                     <sub>
-                      <b>flawlesslys</b>
+                      <b>pink-bean</b>
                     </sub>
                   </a>
                 </td>
@@ -3336,6 +3336,44 @@ const CommunityMembers: NextPage = () => {
                     <br />
                     <sub>
                       <b>sushantjha78</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/CerovecVojislav"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/84142643?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="CerovecVojislav"
+                    />
+                    <br />
+                    <sub>
+                      <b>CerovecVojislav</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Manishak798"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/90680330?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Manishak798"
+                    />
+                    <br />
+                    <sub>
+                      <b>Manishak798</b>
                     </sub>
                   </a>
                 </td>

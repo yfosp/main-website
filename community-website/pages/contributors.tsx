@@ -9,16 +9,15 @@ import NavBar from "../components/NavBar";
 import { truncateNames } from "../utils/utils";
 
 const Contributors: NextPage = () => {
-
   useEffect(() => {
     truncateNames();
 
-    const confettiSettings = { target: 'confetti-canvas' };
+    const confettiSettings = { target: "confetti-canvas" };
     const confetti = new ConfettiGenerator(confettiSettings);
     confetti.render();
 
     return () => confetti.clear();
-  }, [])
+  }, []);
 
   return (
     <div className={styles.container}>
@@ -28,8 +27,10 @@ const Contributors: NextPage = () => {
         <link rel="icon" href="/earth-asia-solid.svg" />
       </Head>
 
-      <canvas id="confetti-canvas" className={`${styles.canvas} bg-white dark:bg-black`}></canvas>
-
+      <canvas
+        id="confetti-canvas"
+        className={`${styles.canvas} bg-white dark:bg-black`}
+      ></canvas>
 
       <main className={`${styles.contributors} text-black dark:text-white`}>
         <NavBar></NavBar>
@@ -45,7 +46,7 @@ const Contributors: NextPage = () => {
         </h1>
 
         <p className={styles.description}>
-          <Link href="/">{'< Go Back'}</Link>
+          <Link href="/">{"< Go Back"}</Link>
         </p>
 
         <div className={styles.wrapperDiv}>
@@ -53,110 +54,158 @@ const Contributors: NextPage = () => {
             <tbody>
               <tr>
                 <td align="center" className={styles.tableData}>
-                    <a href="https://github.com/melvincwng" target="_blank" rel="noopener noreferrer">
-                      <img
-                        src="https://avatars.githubusercontent.com/u/77479885?v=4"
-                        width="85"
-                        height="85"
-                        alt="melvincwng"
-                        className={styles.profileImage}
-                      />
-                      <br />
-                      <sub><b>melvincwng</b></sub>
-                    </a>
+                  <a
+                    href="https://github.com/melvincwng"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/77479885?v=4"
+                      width="85"
+                      height="85"
+                      alt="melvincwng"
+                      className={styles.profileImage}
+                    />
+                    <br />
+                    <sub>
+                      <b>melvincwng</b>
+                    </sub>
+                  </a>
                 </td>
                 <td align="center" className={styles.tableData}>
-                    <a href="https://github.com/flawlesslys" target="_blank" rel="noopener noreferrer">
-                      <img
-                        src="https://avatars.githubusercontent.com/u/81615152?v=4"
-                        width="85"
-                        height="85"
-                        alt="flawlesslys"
-                        className={styles.profileImage}
-                      />
-                      <br />
-                      <sub><b>flawlesslys</b></sub>
-                    </a>
+                  <a
+                    href="https://github.com/pink-bean"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/81615152?v=4"
+                      width="85"
+                      height="85"
+                      alt="pink-bean"
+                      className={styles.profileImage}
+                    />
+                    <br />
+                    <sub>
+                      <b>pink-bean</b>
+                    </sub>
+                  </a>
                 </td>
                 <td align="center" className={styles.tableData}>
-                    <a href="https://github.com/theadityaagnihotri" target="_blank" rel="noopener noreferrer">
-                      <img
-                        src="https://avatars.githubusercontent.com/u/95487342?v=4"
-                        width="85"
-                        height="85"
-                        alt="theadityaagnihotri"
-                        className={styles.profileImage}
-                      />
-                      <br />
-                      <sub><b>theadityaagnihotri</b></sub>
-                    </a>
+                  <a
+                    href="https://github.com/theadityaagnihotri"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/95487342?v=4"
+                      width="85"
+                      height="85"
+                      alt="theadityaagnihotri"
+                      className={styles.profileImage}
+                    />
+                    <br />
+                    <sub>
+                      <b>theadityaagnihotri</b>
+                    </sub>
+                  </a>
                 </td>
                 <td align="center" className={styles.tableData}>
-                    <a href="https://github.com/GabrielWarner" target="_blank" rel="noopener noreferrer">
-                      <img
-                        src="https://avatars.githubusercontent.com/u/98490756?v=4"
-                        width="85"
-                        height="85"
-                        alt="gabrielwarner"
-                        className={styles.profileImage}
-                      />
-                      <br />
-                      <sub><b>GabrielWarner</b></sub>
-                    </a>
+                  <a
+                    href="https://github.com/GabrielWarner"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/98490756?v=4"
+                      width="85"
+                      height="85"
+                      alt="gabrielwarner"
+                      className={styles.profileImage}
+                    />
+                    <br />
+                    <sub>
+                      <b>GabrielWarner</b>
+                    </sub>
+                  </a>
                 </td>
                 <td align="center" className={styles.tableData}>
-                    <a href="https://github.com/Bennykillua" target="_blank" rel="noopener noreferrer">
-                      <img
-                        src="https://avatars.githubusercontent.com/u/67695793?v=4"
-                        width="85"
-                        height="85"
-                        alt="Bennykillua"
-                        className={styles.profileImage}
-                      />
-                      <br />
-                      <sub><b>Bennykillua</b></sub>
-                    </a>
+                  <a
+                    href="https://github.com/Bennykillua"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/67695793?v=4"
+                      width="85"
+                      height="85"
+                      alt="Bennykillua"
+                      className={styles.profileImage}
+                    />
+                    <br />
+                    <sub>
+                      <b>Bennykillua</b>
+                    </sub>
+                  </a>
                 </td>
                 <td align="center" className={styles.tableData}>
-                    <a href="https://github.com/Mesfrum" target="_blank" rel="noopener noreferrer">
-                      <img
-                        src="https://avatars.githubusercontent.com/u/99741869?v=4"
-                        width="85"
-                        height="85"
-                        alt="Mesfrum"
-                        className={styles.profileImage}
-                      />
-                      <br />
-                      <sub><b>Mesfrum</b></sub>
-                    </a>
+                  <a
+                    href="https://github.com/Mesfrum"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/99741869?v=4"
+                      width="85"
+                      height="85"
+                      alt="Mesfrum"
+                      className={styles.profileImage}
+                    />
+                    <br />
+                    <sub>
+                      <b>Mesfrum</b>
+                    </sub>
+                  </a>
                 </td>
               </tr>
               <tr>
                 <td align="center" className={styles.tableData}>
-                    <a href="https://github.com/SuryodayABM" target="_blank" rel="noopener noreferrer">
-                      <img
-                        src="https://avatars.githubusercontent.com/u/133846974?v=4"
-                        width="85"
-                        height="85"
-                        alt="SuryodayABM"
-                        className={styles.profileImage}
-                      />
-                      <br />
-                      <sub><b>SuryodayABM</b></sub>
-                    </a>
+                  <a
+                    href="https://github.com/SuryodayABM"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/133846974?v=4"
+                      width="85"
+                      height="85"
+                      alt="SuryodayABM"
+                      className={styles.profileImage}
+                    />
+                    <br />
+                    <sub>
+                      <b>SuryodayABM</b>
+                    </sub>
+                  </a>
                 </td>
                 <td align="center" className={styles.tableData}>
-                    <a href="https://github.com/sushantjha78" target="_blank" rel="noopener noreferrer">
-                      <img
-                        src="https://avatars.githubusercontent.com/u/64401703?v=4"
-                        width="85"
-                        height="85"
-                        alt="sushantjha78"
-                        className={styles.profileImage}
-                      />
-                      <br />
-                      <sub><b>sushantjha78</b></sub>
-                    </a>
+                  <a
+                    href="https://github.com/sushantjha78"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/64401703?v=4"
+                      width="85"
+                      height="85"
+                      alt="sushantjha78"
+                      className={styles.profileImage}
+                    />
+                    <br />
+                    <sub>
+                      <b>sushantjha78</b>
+                    </sub>
+                  </a>
                 </td>
               </tr>
             </tbody>
@@ -173,7 +222,7 @@ const Contributors: NextPage = () => {
           Created by the community for Hacktoberfest 2022 with ❤️
         </a>
       </footer>
-  </div>
+    </div>
   );
 };
 
