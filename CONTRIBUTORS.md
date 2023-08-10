@@ -21,14 +21,14 @@
           </a>
       </td>
       <td align="center">
-          <a href="https://github.com/flawlesslys" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/pink-bean" target="_blank" rel="noopener noreferrer">
               <img
                 src="https://avatars.githubusercontent.com/u/81615152?v=4"
                 width="85"
-                alt="flawlesslys"
+                alt="pink-bean"
               />
               <br />
-              <sub><b>flawlesslys</b></sub>
+              <sub><b>pink-bean</b></sub>
           </a>
       </td>
       <td align="center">
