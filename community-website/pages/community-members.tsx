@@ -3396,6 +3396,65 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Saani765"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/98387792?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Saani765"
+                    />
+                    <br />
+                    <sub>
+                      <b>Saani765</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a
+                    href="https://github.com/Raj-Kumar-M625"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/54210761?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Raj-Kumar-M625"
+                    />
+                    <br />
+                    <sub>
+                      <b>Raj-Kumar-M625</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/awibox"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/1931010?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="awibox"
+                    />
+                    <br />
+                    <sub>
+                      <b>awibox</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
