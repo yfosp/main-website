@@ -3455,6 +3455,63 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Shuklaaa"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/93446673?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Shuklaaa"
+                    />
+                    <br />
+                    <sub>
+                      <b>Shuklaaa</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/rafabelts"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/77165740?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="rafabelts"
+                    />
+                    <br />
+                    <sub>
+                      <b>rafabelts</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Eztosin"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/122854717?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Eztosin"
+                    />
+                    <br />
+                    <sub>
+                      <b>Eztosin</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
