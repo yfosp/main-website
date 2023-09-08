@@ -3527,7 +3527,7 @@ const CommunityMembers: NextPage = () => {
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>codelover2025</b>
                     </sub>
                   </a>
                 </td>
