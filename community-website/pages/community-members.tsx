@@ -3512,6 +3512,25 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/codelover2025"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/122854717?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="codelover2025"
+                    />
+                    <br />
+                    <sub>
+                      <b>codelover2025</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
