@@ -226,6 +226,25 @@ const Contributors: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center" className={styles.tableData}>
+                  <a
+                    href="https://github.com/avyuktsoni0731"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/95626105?v=4"
+                      width="85"
+                      height="85"
+                      alt="avyuktsoni0731"
+                      className={styles.profileImage}
+                    />
+                    <br />
+                    <sub>
+                      <b>avyuktsoni0731</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
