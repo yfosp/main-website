@@ -1,13 +1,13 @@
 # 'Your First Open Source Project' Community Website
 
-A community-driven initiative built by the community for the community during Hacktoberfest 2022 🔥
+A community-driven initiative built & maintained by the community for the community during Hacktoberfest 🔥
 
 ![HackToberFest image](./images/HackToberFest.PNG)
 
 <table>
 <tr>
 <td>
-  This repository is an initiative that aims to help beginners kickstart their open-source journey and successfully submit their first pull request (PR) for Hacktoberfest 2022. It is also a safe space for everyone regardless of their skill level and we welcome participants from all around the world with different experiences, unique perspectives, and great ideas.
+  This repository is an initiative that aims to help beginners kickstart their open-source journey and successfully submit their first pull request (PR) for Hacktoberfest. It is also a safe space for everyone regardless of their skill level and we welcome participants from all around the world with different experiences, unique perspectives, and great ideas.
 </td>
 </tr>
 </table>
@@ -73,8 +73,8 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 - Automate the process of this repo with GitHub actions
 
 ## Status 🌐
-- The community website is **fully developed** and built using **Next.js & TypeScript** as of 16/10/2022
+- The community website is **fully developed** and built using **Next.js & TypeScript**
 - Enhancements or bug fixes to this community codebase are still accepted
 - Don't forget to **follow me [@melvincwng](https://github.com/melvincwng)**, **star this repo**, and **[join/follow our organization](https://github.com/Your-First-Open-Source-Project)**
 
-<h1 align='center'><i>Stay awesome & Happy Hacktoberfest 2022 🎃🎃🎃!</i></h1>
+<h1 align='center'><i>Stay awesome & Happy Hacktoberfest 🎃🎃🎃!</i></h1>

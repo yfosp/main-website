@@ -1,4 +1,4 @@
-<h1> Contributors to our Community Website for Hacktoberfest 2022 🌐</h1>
+<h1> Contributors to our Community Website for Hacktoberfest 🌐</h1>
 
 <!-- CONTRIBUTORS.md START -->
 <!--
