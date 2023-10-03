@@ -20,7 +20,7 @@ const CommunityGuidelines: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <title>Community Guidelines</title>
-        <meta name="description" content="YFOSP Contributors" />
+        <meta name="description" content="YFOSP Guidelines" />
         <link rel="icon" href="/earth-asia-solid.svg" />
       </Head>
 

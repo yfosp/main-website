@@ -31,6 +31,20 @@
   align-items: center;
 }
 
+.educationalResources {
+  min-height: 86vh;
+  padding: 0 0 2rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.educationalResourcesContainer {
+  display: flex;
+  flex-direction: row;
+}
+
 .footer {
   display: flex;
   flex: 1;
@@ -69,6 +83,16 @@
 .title,
 .description {
   text-align: center;
+}
+
+.educationalLinks {
+  color: #0070f3;
+}
+
+.educationalLinks a:hover,
+.educationalLinks a:focus,
+.educationalLinks a:active {
+  text-decoration: underline;
 }
 
 .description {
@@ -150,6 +174,7 @@
   overflow-x: auto !important;
 }
 
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
@@ -161,6 +186,12 @@
     overflow-x: auto !important;
     
   }  
+}
+
+@media (max-width: 480px) {
+  .educationalResourcesContainer {
+    flex-direction: column;
+  }
 }
 
 @media (prefers-color-scheme: dark) {

@@ -101,6 +101,15 @@ const Home: NextPage = () => {
             </a>
           </Link>
 
+          <Link href="./educational-resources">
+            <a className={styles.card}>
+              <h2>Education Resources &rarr;</h2>
+              <p>
+                Various educational resources for your learning journey 📖
+              </p>
+            </a>
+          </Link>
+
           <Link
             href="https://github.com/Your-First-Open-Source-Project"
             passHref
