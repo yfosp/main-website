@@ -99,6 +99,17 @@
           <sub><b>sushantjha78</b></sub>
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/dollarboysushil" target="_blank" rel="noopener noreferrer">
+          <img
+            src="https://avatars.githubusercontent.com/u/48991715?v=4"
+            width="85"
+            alt="dollarboysushil"
+          />
+          <br />
+          <sub><b>dollarboysushil</b></sub>
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
