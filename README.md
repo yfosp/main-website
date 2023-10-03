@@ -77,4 +77,8 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 - Enhancements or bug fixes to this community codebase are still accepted
 - Don't forget to **follow me [@melvincwng](https://github.com/melvincwng)**, **star this repo**, and **[join/follow our organization](https://github.com/Your-First-Open-Source-Project)**
 
-<h1 align='center'><i>Stay awesome & Happy Hacktoberfest 🎃🎃🎃!</i></h1>
+<h1 align='center'>
+  <i>Stay awesome & Happy Hacktoberfest </i>
+  🎃🎃🎃
+  <i>!</i>
+</h1>
