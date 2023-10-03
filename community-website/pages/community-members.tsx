@@ -3533,7 +3533,7 @@ const CommunityMembers: NextPage = () => {
                 </td>
               </tr>
               <tr>
-                 <td align="center">
+                <td align="center">
                   <a
                     href="https://github.com/MadalitsoNyemba"
                     target="_blank"
@@ -3549,6 +3549,63 @@ const CommunityMembers: NextPage = () => {
                     <br />
                     <sub>
                       <b>MadalitsoNyemba</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/ngud-0119"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/121861323?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="ngud-0119"
+                    />
+                    <br />
+                    <sub>
+                      <b>ngud-0119</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/kevinly77"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/44701340?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="kevinly77"
+                    />
+                    <br />
+                    <sub>
+                      <b>kevinly77</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Diviyk"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/146312721?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Diviyk"
+                    />
+                    <br />
+                    <sub>
+                      <b>Diviyk</b>
                     </sub>
                   </a>
                 </td>
