@@ -132,7 +132,7 @@ const Home: NextPage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Created by the community for Hacktoberfest 2022 with ❤️
+          Created by the community for Hacktoberfest with ❤️
         </a>
       </footer>
     </div>
