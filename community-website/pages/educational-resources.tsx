@@ -96,11 +96,27 @@ const EducationalResources: NextPage = () => {
             <b>Other resources</b>
             <div className={styles.educationalLinks}>
               <a
-                href="https://github.com/Your-First-Open-Source-Project/aws-resources"
+                href="https://roadmap.sh/frontend"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                More resources to be added in future...
+                Frontend Developer Roadmap
+              </a>
+              <br />
+              <a
+                href="https://roadmap.sh/backend"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Backend Developer Roadmap
+              </a>
+              <br />
+              <a
+                href="https://roadmap.sh/full-stack"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Full Stack Developer Roadmap
               </a>
               <br />
               <a href="https://github.com/aachal28/Awesome-web-development-resources"
@@ -109,6 +125,7 @@ const EducationalResources: NextPage = () => {
               >
                 Web Development Resources
               </a>
+              <br />
             </div>
           </p>
         </div>
