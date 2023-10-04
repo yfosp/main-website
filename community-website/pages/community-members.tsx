@@ -3635,7 +3635,7 @@ const CommunityMembers: NextPage = () => {
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="https://avatars.githubusercontent.com/u/95626105?v=4"
+                      src="https://avatars.githubusercontent.com/u/77334130?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
