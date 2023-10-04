@@ -103,6 +103,12 @@ const EducationalResources: NextPage = () => {
                 More resources to be added in future...
               </a>
               <br />
+              <a href="https://github.com/aachal28/Awesome-web-development-resources"
+              target="_blank"
+              rel="noopener noreferrer"
+              >
+                Web Development Resources
+              </a>
             </div>
           </p>
         </div>
