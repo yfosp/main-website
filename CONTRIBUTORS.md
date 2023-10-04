@@ -121,6 +121,17 @@
           <sub><b>avyuktsoni0731</b></sub>
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/aachal28" target="_blank" rel="noopener noreferrer">
+          <img
+            src="https://avatars.githubusercontent.com/aachal28"
+            width="85"
+            alt="aachal28"
+          />
+          <br />
+          <sub><b>aachal28</b></sub>
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
