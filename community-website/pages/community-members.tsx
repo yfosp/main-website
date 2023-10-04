@@ -3609,7 +3609,46 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/avyuktsoni0731"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/95626105?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="avyuktsoni0731"
+                    />
+                    <br />
+                    <sub>
+                      <b>avyuktsoni0731</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/aachal28"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/95626105?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="aachal28"
+                    />
+                    <br />
+                    <sub>
+                      <b>aachal28</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
+              <tr></tr>
             </tbody>
           </table>
         </div>
