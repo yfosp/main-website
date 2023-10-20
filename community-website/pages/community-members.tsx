@@ -3648,7 +3648,65 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
               </tr>
-              <tr></tr>
+              <tr>
+                <td align="center">
+                  <a
+                    href="https://github.com/jamogh"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/102756648?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="jamogh"
+                    />
+                    <br />
+                    <sub>
+                      <b>jamogh</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/DhavalKanjariya2803"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/80319316?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="DhavalKanjariya2803"
+                    />
+                    <br />
+                    <sub>
+                      <b>DhavalKanjariya2803</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Kevin-0-0"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/121006408?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Kevin-0-0"
+                    />
+                    <br />
+                    <sub>
+                      <b>Kevin-0-0</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
             </tbody>
           </table>
         </div>
