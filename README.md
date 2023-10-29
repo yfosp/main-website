@@ -80,5 +80,5 @@ Wanna make a contribution but don't know how? Please follow the steps below.
 <h1 align='center'>
   <i>Stay awesome & Happy Hacktoberfest </i>
   🎃🎃🎃
-  <i>!</i>
+  <i>!!!</i>
 </h1>
