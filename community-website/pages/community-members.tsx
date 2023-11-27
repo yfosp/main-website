@@ -3808,7 +3808,6 @@ const CommunityMembers: NextPage = () => {
           </table>
         </div>
       </main>
-
       <footer className={`${styles.footer} text-black dark:text-white`}>
         <a
           href="https://hacktoberfest.com/"
