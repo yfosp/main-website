@@ -3706,6 +3706,103 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/ahmedrazabaloch"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/41878215?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="ahmedrazabaloch"
+                    />
+                    <br />
+                    <sub>
+                      <b>ahmedrazabaloch</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/JonettaPek"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/117986629?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="JonettaPek"
+                    />
+                    <br />
+                    <sub>
+                      <b>JonettaPek</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/yash358"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/93638045?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="yash358"
+                    />
+                    <br />
+                    <sub>
+                      <b>yash358</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a
+                    href="https://github.com/CoreySmithUCR"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/58282075?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="CoreySmithUCR"
+                    />
+                    <br />
+                    <sub>
+                      <b>CoreySmithUCR</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/zananas"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/24630579?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="zananas"
+                    />
+                    <br />
+                    <sub>
+                      <b>zananas</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
