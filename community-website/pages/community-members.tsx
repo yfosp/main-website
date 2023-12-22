@@ -3822,6 +3822,44 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Alfiyansya"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/50689127?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Alfiyansya"
+                    />
+                    <br />
+                    <sub>
+                      <b>Alfiyansya</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/syaddadSmiley"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/44740028?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="syaddadSmiley"
+                    />
+                    <br />
+                    <sub>
+                      <b>syaddadSmiley</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
