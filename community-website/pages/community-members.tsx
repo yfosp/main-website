@@ -3880,6 +3880,46 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
               </tr>
+              <tr>
+                <td align="center">
+                    <a
+                      href="https://github.com/mangaka585"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <img
+                        src="https://avatars.githubusercontent.com/u/42143776?v=4"
+                        width="85"
+                        height="85"
+                        className={styles.profileImage}
+                        alt="mangaka585"
+                      />
+                      <br />
+                      <sub>
+                        <b>mangaka585</b>
+                      </sub>
+                    </a>
+                  </td>
+                  <td align="center">
+                    <a
+                      href="https://github.com/superstar901"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <img
+                        src="https://avatars.githubusercontent.com/u/147424621?v=4"
+                        width="85"
+                        height="85"
+                        className={styles.profileImage}
+                        alt="superstar901"
+                      />
+                      <br />
+                      <sub>
+                        <b>superstar901</b>
+                      </sub>
+                    </a>
+                  </td>
+              </tr>
             </tbody>
           </table>
         </div>
