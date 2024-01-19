@@ -3919,6 +3919,44 @@ const CommunityMembers: NextPage = () => {
                       </sub>
                     </a>
                   </td>
+                  <td align="center">
+                    <a
+                      href="https://github.com/prince-63"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <img
+                        src="https://avatars.githubusercontent.com/u/111671729?v=4"
+                        width="85"
+                        height="85"
+                        className={styles.profileImage}
+                        alt="prince-63"
+                      />
+                      <br />
+                      <sub>
+                        <b>prince-63</b>
+                      </sub>
+                    </a>
+                  </td>
+                  <td align="center">
+                    <a
+                      href="https://github.com/SKSurain"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <img
+                        src="https://avatars.githubusercontent.com/u/19688419?v=4"
+                        width="85"
+                        height="85"
+                        className={styles.profileImage}
+                        alt="SKSurain"
+                      />
+                      <br />
+                      <sub>
+                        <b>SKSurain</b>
+                      </sub>
+                    </a>
+                  </td>
               </tr>
             </tbody>
           </table>
