@@ -4113,25 +4113,160 @@ const CommunityMembers: NextPage = () => {
                 </td>
               </tr>
               <tr>
-              <td align="center">
-                <a
-                  href="https://github.com/JohnMwendwa"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <img
-                    src="https://avatars.githubusercontent.com/u/72663882?v=4"
-                    width="85"
-                    height="85"
-                    className={styles.profileImage}
-                    alt="JohnMwendwa"
-                  />
-                  <br />
-                  <sub>
-                    <b>JohnMwendwa</b>
-                  </sub>
-                </a>
-                </td> 
+                <td align="center">
+                  <a
+                    href="https://github.com/JohnMwendwa"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/72663882?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="JohnMwendwa"
+                    />
+                    <br />
+                    <sub>
+                      <b>JohnMwendwa</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/aligzsht"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/95775327?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="aligzsht"
+                    />
+                    <br />
+                    <sub>
+                      <b>aligzsht</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Santa116"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/134077770?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Santa116"
+                    />
+                    <br />
+                    <sub>
+                      <b>Santa116</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Pritirekha23"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/102647459?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Pritirekha23"
+                    />
+                    <br />
+                    <sub>
+                      <b>Pritirekha23</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/Abhishek-5854"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/83357381?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Abhishek-5854"
+                    />
+                    <br />
+                    <sub>
+                      <b>Abhishek-5854</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/coder-ralph"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/90777662?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="coder-ralph"
+                    />
+                    <br />
+                    <sub>
+                      <b>coder-ralph</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a
+                    href="https://github.com/thenjiiiwe"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/122357616?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="thenjiiiwe"
+                    />
+                    <br />
+                    <sub>
+                      <b>thenjiiiwe</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a
+                    href="https://github.com/HeySkidee"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/u/59761032?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="HeySkidee"
+                    />
+                    <br />
+                    <sub>
+                      <b>HeySkidee</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
