@@ -78,14 +78,14 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/SuryodayABM" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/SuryodayYadav" target="_blank" rel="noopener noreferrer">
           <img
             src="https://avatars.githubusercontent.com/u/133846974?v=4"
             width="85"
-            alt="SuryodayABM"
+            alt="SuryodayYadav"
           />
           <br />
-          <sub><b>SuryodayABM</b></sub>
+          <sub><b>SuryodayYadav</b></sub>
         </a>
       </td>
       <td align="center">
