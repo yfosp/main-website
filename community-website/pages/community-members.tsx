@@ -4500,11 +4500,7 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
                       width="85"
@@ -4887,39 +4883,39 @@ const CommunityMembers: NextPage = () => {
                 </td>
                 <td align="center">
                   <a
-                    href=""
+                    href="https://github.com/ArkS0001"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/113760964?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="ArkS0001"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>ArkS0001</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
                   <a
-                    href=""
+                    href="https://github.com/shenandrei4"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/144021603?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="shenandrei4"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>shenandrei4</b>
                     </sub>
                   </a>
                 </td>
@@ -4927,358 +4923,305 @@ const CommunityMembers: NextPage = () => {
               <tr>
                 <td align="center">
                   <a
-                    href=""
+                    href="https://github.com/SUDEEP-M-SHETTY"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/86517389?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="SUDEEP-M-SHETTY"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>SUDEEP-M-SHETTY</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
                   <a
-                    href=""
+                    href="https://github.com/Sabeer-Junaid"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/59570904?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="Sabeer-Junaid"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>Sabeer-Junaid</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/ItsLasa" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/94479824?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="ItsLasa"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>ItsLasa</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/kindlyman343423" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/134114322?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="kindlyman343423"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>kindlyman343423</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/NCherfaoui" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/99206668?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="NCherfaoui"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>NCherfaoui</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/xfactor-toml" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/154992305?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="xfactor-toml"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>xfactor-toml</b>
                     </sub>
                   </a>
                 </td>
               </tr>
               <tr>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/krishealty" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/93068820?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="krishealty"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>krishealty</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/GayathriPCh" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/132088009?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="GayathriPCh"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>GayathriPCh</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/felixdomingos1" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/97100392?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="felixdomingos1"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>felixdomingos1</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/kentaurse" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/169123448?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="kentaurse"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>kentaurse</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/rewyekha" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/119721119?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="rewyekha"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>rewyekha</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/wreckitral" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/97646104?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="wreckitral"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>wreckitral</b>
                     </sub>
                   </a>
                 </td>
               </tr>
               <tr>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/YSHgroup" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/146746648?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="YSHgroup"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>YSHgroup</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/Infinity-chakra" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/156979422?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="Infinity-chakra"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>Infinity-chakra</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/gopalepic" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/145182240?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="gopalepic"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>gopalepic</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/tmanas06" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/113188197?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="tmanas06"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>tmanas06</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/Niraj1608" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/107384357?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="Niraj1608"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>Niraj1608</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/juddydev" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/167388906?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="juddydev"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>juddydev</b>
                     </sub>
                   </a>
                 </td>
               </tr>
               <tr>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="https://github.com/jb90000" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/22331669?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="jb90000"
+                    />
+                    <br />
+                    <sub>
+                      <b>jb90000</b>
+                    </sub>
+                  </a>
+                </td>
+                {/* <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
                       width="85"
@@ -5293,11 +5236,7 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
                       width="85"
@@ -5312,11 +5251,7 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
                       width="85"
@@ -5331,11 +5266,7 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
                       width="85"
@@ -5350,11 +5281,7 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
                       width="85"
@@ -5367,34 +5294,11 @@ const CommunityMembers: NextPage = () => {
                       <b></b>
                     </sub>
                   </a>
-                </td>
-                <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
+                </td> */}
               </tr>
-              <tr>
+              {/* <tr>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
                       width="85"
@@ -5409,11 +5313,7 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
                       width="85"
@@ -5428,11 +5328,7 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
                       width="85"
@@ -5447,11 +5343,7 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
                       width="85"
@@ -5466,11 +5358,7 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
                       width="85"
@@ -5485,11 +5373,7 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                  <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
                       width="85"
@@ -5503,123 +5387,7 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
-              </tr>
-              <tr>
-                <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-                <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-                <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-                <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-                <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-                <td align="center">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-              </tr>
+              </tr> */}
             </tbody>
           </table>
         </div>
