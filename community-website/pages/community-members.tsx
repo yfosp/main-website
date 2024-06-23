@@ -4500,17 +4500,17 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/jb90000" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/22331669?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="jb90000"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>jb90000</b>
                     </sub>
                   </a>
                 </td>
@@ -4656,11 +4656,11 @@ const CommunityMembers: NextPage = () => {
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="Vikranth3140"
+                      src="https://avatars.githubusercontent.com/u/122410275?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt="https://avatars.githubusercontent.com/u/122410275?v=4"
+                      alt="Vikranth3140"
                     />
                     <br />
                     <sub>
@@ -4960,7 +4960,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/ItsLasa" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/ItsLasa"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/94479824?v=4"
                       width="85"
@@ -4975,7 +4979,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/kindlyman343423" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/kindlyman343423"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/134114322?v=4"
                       width="85"
@@ -4990,7 +4998,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/NCherfaoui" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/NCherfaoui"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/99206668?v=4"
                       width="85"
@@ -5005,7 +5017,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/xfactor-toml" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/xfactor-toml"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/154992305?v=4"
                       width="85"
@@ -5022,7 +5038,11 @@ const CommunityMembers: NextPage = () => {
               </tr>
               <tr>
                 <td align="center">
-                  <a href="https://github.com/krishealty" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/krishealty"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/93068820?v=4"
                       width="85"
@@ -5037,7 +5057,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/GayathriPCh" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/GayathriPCh"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/132088009?v=4"
                       width="85"
@@ -5052,7 +5076,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/felixdomingos1" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/felixdomingos1"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/97100392?v=4"
                       width="85"
@@ -5067,7 +5095,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/kentaurse" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/kentaurse"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/169123448?v=4"
                       width="85"
@@ -5082,7 +5114,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/rewyekha" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/rewyekha"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/119721119?v=4"
                       width="85"
@@ -5097,7 +5133,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/wreckitral" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/wreckitral"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/97646104?v=4"
                       width="85"
@@ -5114,7 +5154,11 @@ const CommunityMembers: NextPage = () => {
               </tr>
               <tr>
                 <td align="center">
-                  <a href="https://github.com/YSHgroup" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/YSHgroup"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/146746648?v=4"
                       width="85"
@@ -5129,7 +5173,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/Infinity-chakra" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/Infinity-chakra"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/156979422?v=4"
                       width="85"
@@ -5144,7 +5192,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/gopalepic" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/gopalepic"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/145182240?v=4"
                       width="85"
@@ -5159,7 +5211,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/tmanas06" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/tmanas06"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/113188197?v=4"
                       width="85"
@@ -5174,7 +5230,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/Niraj1608" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/Niraj1608"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/107384357?v=4"
                       width="85"
@@ -5189,7 +5249,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/juddydev" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/juddydev"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/167388906?v=4"
                       width="85"
@@ -5203,98 +5267,6 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
-              </tr>
-              <tr>
-                <td align="center">
-                  <a href="https://github.com/jb90000" target="_blank" rel="noopener noreferrer">
-                    <img
-                      src="https://avatars.githubusercontent.com/u/22331669?v=4"
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt="jb90000"
-                    />
-                    <br />
-                    <sub>
-                      <b>jb90000</b>
-                    </sub>
-                  </a>
-                </td>
-                {/* <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-                <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-                <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-                <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-                <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td> */}
               </tr>
               {/* <tr>
                 <td align="center">
