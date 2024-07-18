@@ -132,6 +132,19 @@
           <sub><b>aachal28</b></sub>
         </a>
       </td>
+      <!-- Start -->
+      <td align="center">
+        <a href="https://github.com/Mubshr07" target="_blank" rel="Mubashir Iqbal">
+          <img
+            src="https://avatars.githubusercontent.com/u/34352213?v=4"
+            width="85"
+            alt="Mubashir Iqbal"
+          />
+          <br />
+          <sub><b>Mubashir Iqbal</b></sub>
+        </a>
+      </td>
+      <!-- End -->
     </tr>
   </tbody>
 </table>
