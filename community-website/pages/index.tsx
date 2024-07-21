@@ -58,7 +58,7 @@ const Home: NextPage = () => {
         <h1 className={styles.title}>
           Welcome to{" "}
           <a
-            href="https://github.com/Your-First-Open-Source-Project/main-website"
+            href="https://github.com/yfosp/main-website"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -111,7 +111,7 @@ const Home: NextPage = () => {
           </Link>
 
           <Link
-            href="https://github.com/Your-First-Open-Source-Project"
+            href="https://github.com/yfosp"
             passHref
           >
             <a
