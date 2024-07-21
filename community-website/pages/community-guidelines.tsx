@@ -36,7 +36,7 @@ const CommunityGuidelines: NextPage = () => {
 
         <h1 className={styles.title}>
           <a
-            href="https://github.com/Your-First-Open-Source-Project/main-website/blob/main/COMMUNITY_GUIDELINES.md"
+            href="https://github.com/yfosp/main-website/blob/main/COMMUNITY_GUIDELINES.md"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -36,7 +36,7 @@ const EducationalResources: NextPage = () => {
 
         <h1 className={styles.title}>
           <a
-            href="https://github.com/Your-First-Open-Source-Project/aws-resources"
+            href="https://github.com/yfosp/aws-resources"
             target="_blank"
             rel="noopener noreferrer"
           >

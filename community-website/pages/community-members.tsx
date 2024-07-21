@@ -37,7 +37,7 @@ const CommunityMembers: NextPage = () => {
 
         <h1 className={styles.title}>
           <a
-            href="https://github.com/orgs/Your-First-Open-Source-Project/people"
+            href="https://github.com/orgs/yfosp/people"
             target="_blank"
             rel="noopener noreferrer"
           >
