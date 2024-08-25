@@ -5268,6 +5268,190 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
               </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://github.com/shaurya010" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/66877981?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="shaurya010"
+                    />
+                    <br />
+                    <sub>
+                      <b>shaurya010</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/Had33dKhan" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/166932393?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Had33dKhan"
+                    />
+                    <br />
+                    <sub>
+                      <b>Had33dKhan</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/francisaguilar21" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/25190540?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="francisaguilar21"
+                    />
+                    <br />
+                    <sub>
+                      <b>francisaguilar21</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/Dr-GlassesPIG" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/122963203?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Dr-GlassesPIG"
+                    />
+                    <br />
+                    <sub>
+                      <b>Dr-GlassesPIG</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/abhinay5993" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/22258822?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="abhinay5993"
+                    />
+                    <br />
+                    <sub>
+                      <b>abhinay5993</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/Tvenus" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/156801994?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Tvenus"
+                    />
+                    <br />
+                    <sub>
+                      <b>Tvenus</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://github.com/xleonardov" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/171130463?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="xleonardov"
+                    />
+                    <br />
+                    <sub>
+                      <b>xleonardov</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/khanovico" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/173095496?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="khanovico"
+                    />
+                    <br />
+                    <sub>
+                      <b>khanovico</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/leoyoung02" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/25104354?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="leoyoung02"
+                    />
+                    <br />
+                    <sub>
+                      <b>leoyoung02</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/SofiaGC009" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/78178532?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="SofiaGC009"
+                    />
+                    <br />
+                    <sub>
+                      <b>SofiaGC009</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/Mubshr07" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/34352213?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Mubshr07"
+                    />
+                    <br />
+                    <sub>
+                      <b>Mubshr07</b>
+                    </sub>
+                  </a>
+                </td>
+                {/* <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td> */}
+              </tr>
               {/* <tr>
                 <td align="center">
                   <a href="" target="_blank" rel="noopener noreferrer">
