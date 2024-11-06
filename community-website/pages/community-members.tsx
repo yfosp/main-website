@@ -5641,7 +5641,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/smilefox-lab" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/smilefox-lab"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/88988850?v=4"
                       width="85"
@@ -5656,7 +5660,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/oxmmty" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/oxmmty"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/24660915?v=4"
                       width="85"
@@ -5671,7 +5679,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/george-dev104" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/george-dev104"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/181665912?v=4"
                       width="85"
@@ -5686,7 +5698,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/cryptovecom" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/cryptovecom"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/157918171?v=4"
                       width="85"
@@ -5701,7 +5717,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/jinx-vi-0" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/jinx-vi-0"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/120160355?v=4"
                       width="85"
@@ -5718,7 +5738,11 @@ const CommunityMembers: NextPage = () => {
               </tr>
               <tr>
                 <td align="center">
-                  <a href="https://github.com/k3nidhi" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/k3nidhi"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/140073078?v=4"
                       width="85"
@@ -5733,7 +5757,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/adasarpan404" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/adasarpan404"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/64941823?v=4"
                       width="85"
@@ -5748,7 +5776,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/bugbounted" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/bugbounted"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/104225186?v=4"
                       width="85"
@@ -5763,7 +5795,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/MehmetBozkir" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/MehmetBozkir"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/150898451?v=4"
                       width="85"
@@ -5778,7 +5814,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/ArpitKadam" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/ArpitKadam"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/159715152?v=4"
                       width="85"
@@ -5793,7 +5833,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/dragonsea0927" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/dragonsea0927"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/177758551?v=4"
                       width="85"
@@ -5810,7 +5854,11 @@ const CommunityMembers: NextPage = () => {
               </tr>
               <tr>
                 <td align="center">
-                  <a href="https://github.com/MutanPlex" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/MutanPlex"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/55329698?v=4"
                       width="85"
@@ -5825,7 +5873,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/Mehul2711" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/Mehul2711"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/92589196?v=4"
                       width="85"
@@ -5840,7 +5892,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/idimetrix" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/idimetrix"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/6536323?v=4"
                       width="85"
@@ -5855,7 +5911,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/saheedoluwatosin" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/saheedoluwatosin"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/121197253?v=4"
                       width="85"
@@ -5869,7 +5929,7 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
-                <td align="center">
+                {/* <td align="center">
                   <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
@@ -5898,7 +5958,7 @@ const CommunityMembers: NextPage = () => {
                       <b></b>
                     </sub>
                   </a>
-                </td>
+                </td> */}
               </tr>
               {/* <tr>
                 <td align="center">
