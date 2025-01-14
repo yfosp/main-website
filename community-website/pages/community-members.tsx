@@ -6009,7 +6009,7 @@ const CommunityMembers: NextPage = () => {
                 <td align="center">
                   <a href="https://github.com/bmiit145" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/103820970?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
