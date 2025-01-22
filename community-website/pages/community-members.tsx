@@ -6175,52 +6175,52 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+                <td align="center">
+                  <a href="https://github.com/codemechanica" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/57248794?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="codemechanica"
+                    />
+                    <br />
+                    <sub>
+                      <b>codemechanica</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/eriwek" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/176649925?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="eriwek"
+                    />
+                    <br />
+                    <sub>
+                      <b>eriwek</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/Chain-Reactor" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/174832638?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Chain-Reactor"
+                    />
+                    <br />
+                    <sub>
+                      <b>Chain-Reactor</b>
+                    </sub>
+                  </a>
+                </td>
                 {/* <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-                <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-                <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-                <td align="center">
                   <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
