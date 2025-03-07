@@ -6220,21 +6220,205 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
-                {/* <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                <td align="center">
+                  <a href="https://github.com/Geek-Cheth" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/75480864?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="Geek-Cheth"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>Geek-Cheth</b>
                     </sub>
                   </a>
-                </td> */}
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://github.com/CodexCS" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/76836227?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="CodexCS"
+                    />
+                    <br />
+                    <sub>
+                      <b>CodexCS</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/ClaudiaTienda" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/42391561?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="ClaudiaTienda"
+                    />
+                    <br />
+                    <sub>
+                      <b>ClaudiaTienda</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/vladimirzhushma" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/148034946?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="vladimirzhushma"
+                    />
+                    <br />
+                    <sub>
+                      <b>vladimirzhushma</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/EmanuelMendonca" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/196279572?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="EmanuelMendonca"
+                    />
+                    <br />
+                    <sub>
+                      <b>EmanuelMendonca</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/Muhammad-Tayyab-Awan" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/115396843?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Muhammad-Tayyab-Awan"
+                    />
+                    <br />
+                    <sub>
+                      <b>Muhammad-Tayyab-Awan</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/JRS296" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/70965472?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="JRS296"
+                    />
+                    <br />
+                    <sub>
+                      <b>JRS296</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://github.com/JS912" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/199275934?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="JS912"
+                    />
+                    <br />
+                    <sub>
+                      <b>JS912</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/Dony2100" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/55329971?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Dony2100"
+                    />
+                    <br />
+                    <sub>
+                      <b>Dony2100</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/gunwixor" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/18016769?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="gunwixor"
+                    />
+                    <br />
+                    <sub>
+                      <b>gunwixor</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/bcExpt1123" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/83110099?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="bcExpt1123"
+                    />
+                    <br />
+                    <sub>
+                      <b>bcExpt1123</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/Goutamxd" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/155486488?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Goutamxd"
+                    />
+                    <br />
+                    <sub>
+                      <b>Goutamxd</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/Nkwenti-Severian-Ndongtsop" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/180976800?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Nkwenti-Severian-Ndongtsop"
+                    />
+                    <br />
+                    <sub>
+                      <b>Nkwenti-Severian-Ndongtsop</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
               {/* <tr>
                 <td align="center">
