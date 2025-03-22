@@ -6100,7 +6100,7 @@ const CommunityMembers: NextPage = () => {
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>Gdavidu</b>
                     </sub>
                   </a>
                 </td>
