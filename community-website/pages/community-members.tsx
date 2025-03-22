@@ -6420,7 +6420,191 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
               </tr>
-              {/* <tr>
+              <tr>
+                <td align="center">
+                  <a href="https://github.com/Nima-sltn" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/110777961?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Nima-sltn"
+                    />
+                    <br />
+                    <sub>
+                      <b>Nima-sltn</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/Andrew-Costure" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/189556970?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Andrew-Costure"
+                    />
+                    <br />
+                    <sub>
+                      <b>Andrew-Costure</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/afthal-ahamad01" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/171656561?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="afthal-ahamad01"
+                    />
+                    <br />
+                    <sub>
+                      <b>afthal-ahamad01</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/bullTo" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/201187116?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="bullTo"
+                    />
+                    <br />
+                    <sub>
+                      <b>bullTo</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/madara1793" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/194403512?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="madara1793"
+                    />
+                    <br />
+                    <sub>
+                      <b>madara1793</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/thechampagne" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/13811862?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="thechampagne"
+                    />
+                    <br />
+                    <sub>
+                      <b>thechampagne</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+               <tr>
+                <td align="center">
+                  <a href="https://github.com/warm-h2" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/198259104?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="warm-h2"
+                    />
+                    <br />
+                    <sub>
+                      <b>warm-h2</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/PishangShedappp" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/62550064?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="PishangShedappp"
+                    />
+                    <br />
+                    <sub>
+                      <b>PishangShedappp</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/OrionFable" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/20168172?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="OrionFable"
+                    />
+                    <br />
+                    <sub>
+                      <b>OrionFable</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/Lumisage12" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/175124793?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Lumisage12"
+                    />
+                    <br />
+                    <sub>
+                      <b>Lumisage12</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+               {/* <tr>
                 <td align="center">
                   <a href="" target="_blank" rel="noopener noreferrer">
                     <img
