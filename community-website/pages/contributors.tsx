@@ -171,7 +171,7 @@ const Contributors: NextPage = () => {
               <tr>
                 <td align="center" className={styles.tableData}>
                   <a
-                    href="https://github.com/SuryodayABM"
+                    href="https://github.com/SuryodayYadav"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -179,12 +179,12 @@ const Contributors: NextPage = () => {
                       src="https://avatars.githubusercontent.com/u/133846974?v=4"
                       width="85"
                       height="85"
-                      alt="SuryodayABM"
+                      alt="SuryodayYadav"
                       className={styles.profileImage}
                     />
                     <br />
                     <sub>
-                      <b>SuryodayABM</b>
+                      <b>SuryodayYadav</b>
                     </sub>
                   </a>
                 </td>
