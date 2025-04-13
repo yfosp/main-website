@@ -6741,36 +6741,36 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
-                {/* <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                <td align="center">
+                  <a href="https://github.com/chojuninengu" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/180976849?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="chojuninengu"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>chojuninengu</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/healer-1205" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/91068182?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="healer-1205"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>healer-1205</b>
                     </sub>
                   </a>
-                </td> */}
+                </td>
               </tr>
               {/* <tr>
                 <td align="center">
