@@ -123,7 +123,7 @@ const EducationalResources: NextPage = () => {
               target="_blank"
               rel="noopener noreferrer"
               >
-                Web Development Resources
+                Other Resources
               </a>
               <br />
             </div>
