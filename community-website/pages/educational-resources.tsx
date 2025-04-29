@@ -93,7 +93,7 @@ const EducationalResources: NextPage = () => {
           &nbsp;
           &nbsp;
           <p>
-            <b>Other resources</b>
+            <b>Web Development Resources</b>
             <div className={styles.educationalLinks}>
               <a
                 href="https://roadmap.sh/frontend"
@@ -124,6 +124,25 @@ const EducationalResources: NextPage = () => {
               rel="noopener noreferrer"
               >
                 Web Development Resources
+              </a>
+              <br />
+            </div>
+          </p>
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          <p>
+            <b>GitHub Free Resources</b>
+            <div className={styles.educationalLinks}>
+              <a
+                href="https://education.github.com/pack"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                GitHub Student Developer Pack
               </a>
               <br />
             </div>
