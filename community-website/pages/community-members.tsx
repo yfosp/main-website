@@ -6772,6 +6772,98 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
               </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://github.com/Shrinkhal01" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/97280075?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Shrinkhal01"
+                    />
+                    <br />
+                    <sub>
+                      <b>Shrinkhal01</b>
+                    </sub>
+                  </a>
+                </td>
+                {/* <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td> */}
+              </tr>
               {/* <tr>
                 <td align="center">
                   <a href="" target="_blank" rel="noopener noreferrer">
