@@ -145,6 +145,98 @@ const EducationalResources: NextPage = () => {
                 GitHub Student Developer Pack
               </a>
               <br />
+              <a
+                href="https://www.youtube.com/watch?v=Oaj3RBIoGFc"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Github Tutorial
+              </a>
+              <br />
+              <a 
+                href="https://git-scm.com/docs/gittutorial"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Git Docs
+              </a>
+              <br />
+              <a
+                href="https://www.youtube.com/watch?v=8JJ101D3knE"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Git Tutorial
+              </a>
+            </div>
+          </p>
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          <p>
+            <b>Python Resources</b>
+            <div className={styles.educationalLinks}>
+              <a
+                href="https://github.com/Zemerik/Python"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                30 Days of Python
+              </a>
+              <br />
+              <a 
+                href="https://wiki.python.org/moin/BeginnersGuide/Programmers"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Python Wiki
+              </a>
+              <br />
+              <a
+                href="https://www.youtube.com/watch?v=kqtD5dpn9C8"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Python Tutorial
+              </a>
+            </div>
+          </p>
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          <p>
+            <b>Unity</b>
+            <div className={styles.educationalLinks}>
+              <a
+                href="https://learn.unity.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Unity Learning Guide
+              </a>
+              <br />
+              <a
+                href="https://www.youtube.com/watch?v=pwZpJzpE2lQ"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Unity Tutorial
+              </a>
+              <br />
+              <a
+                href="https://youtu.be/TcranVQUQ5U?list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Unity 2D Game
+              </a>
+              <br />
             </div>
           </p>
         </div>
