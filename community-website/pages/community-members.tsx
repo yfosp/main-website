@@ -7324,19 +7324,34 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
               </tr>
-              {/* <tr>
+              <tr>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/cccaetano" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/87642467?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="cccaetano"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>cccaetano</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/trexdevelop" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/142709074?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="trexdevelop"
+                    />
+                    <br />
+                    <sub>
+                      <b>trexdevelop</b>
                     </sub>
                   </a>
                 </td>
@@ -7400,22 +7415,7 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
-                <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-              </tr> */}
+              </tr>
               {/* <tr>
                 <td align="center">
                   <a href="" target="_blank" rel="noopener noreferrer">
