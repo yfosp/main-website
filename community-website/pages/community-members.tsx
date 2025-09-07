@@ -7033,297 +7033,297 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/waabiud" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/rosedev318" target="_blank" rel="noopener noreferrer">
                     <img
-                      src="https://avatars.githubusercontent.com/u/155254269?v=4"
+                      src="https://avatars.githubusercontent.com/u/25540905?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt="waabiud"
+                      alt="rosedev318"
                     />
                     <br />
                     <sub>
-                      <b>waabiud</b>
+                      <b>rosedev318</b>
                     </sub>
                   </a>
                 </td>
               </tr>
-              {/* <tr>
+              <tr>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/helionis420" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/26447304?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="helionis420"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>helionis420</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/Ammar-Alnagar" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/76597039?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="Ammar-Alnagar"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>Ammar-Alnagar</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/johnraivenolazo" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/137252774?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="johnraivenolazo"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>johnraivenolazo</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/Takeru522" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/220303876?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="Takeru522"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>Takeru522</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/Rohhaannn" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/57493367?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="Rohhaannn"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>Rohhaannn</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/blockchainGuru1018" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/58952144?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="blockchainGuru1018"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>blockchainGuru1018</b>
                     </sub>
                   </a>
                 </td>
-              </tr> */}
-              {/* <tr>
+              </tr>
+              <tr>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/joebertcerezo" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/104471296?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="joebertcerezo"
                     />
                     <br />
                     <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-                <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
+                      <b>joebertcerezo</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/thesunwillriseup" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/147424621?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="thesunwillriseup"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>thesunwillriseup</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/CodeVoyager15" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/31968103?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="CodeVoyager15"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>CodeVoyager15</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/codecraftsman0504" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/226123772?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="codecraftsman0504"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>codecraftsman0504</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/malaikatariqcs50" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/167911020?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="malaikatariqcs50"
                     />
                     <br />
                     <sub>
-                      <b></b>
-                    </sub>
-                  </a>
-                </td>
-              </tr> */}
-              {/* <tr>
-                <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
-                    <img
-                      src=""
-                      width="85"
-                      height="85"
-                      className={styles.profileImage}
-                      alt=""
-                    />
-                    <br />
-                    <sub>
-                      <b></b>
+                      <b>malaikatariqcs50</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/cg98020455" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/196563348?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="cg98020455"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>cg98020455</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://github.com/Lincoln-Madaraka" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/117019629?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Lincoln-Madaraka"
+                    />
+                    <br />
+                    <sub>
+                      <b>Lincoln-Madaraka</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/Tahir-CS" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/211943099?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="Tahir-CS"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>Tahir-CS</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/deepashreeee" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/185888815?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="deepashreeee"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>deepashreeee</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/aryansinghnegi007" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/209528620?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="aryansinghnegi007"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>aryansinghnegi007</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/TheLinuxGuy-ssh" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/107614947?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="TheLinuxGuy-ssh"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>TheLinuxGuy-ssh</b>
                     </sub>
                   </a>
                 </td>
-              </tr> */}
+                <td align="center">
+                  <a href="https://github.com/lewiii254" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/164312183?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="lewiii254"
+                    />
+                    <br />
+                    <sub>
+                      <b>lewiii254</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
               {/* <tr>
                 <td align="center">
                   <a href="" target="_blank" rel="noopener noreferrer">
