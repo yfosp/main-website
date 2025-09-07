@@ -7355,7 +7355,7 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
-                <td align="center">
+                {/* <td align="center">
                   <a href="" target="_blank" rel="noopener noreferrer">
                     <img
                       src=""
@@ -7414,7 +7414,7 @@ const CommunityMembers: NextPage = () => {
                       <b></b>
                     </sub>
                   </a>
-                </td>
+                </td> */}
               </tr>
               {/* <tr>
                 <td align="center">
