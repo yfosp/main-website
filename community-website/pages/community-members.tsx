@@ -6788,82 +6788,634 @@ const CommunityMembers: NextPage = () => {
                     </sub>
                   </a>
                 </td>
-                {/* <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                <td align="center">
+                  <a href="https://github.com/sam28u" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/163282582?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="sam28u"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>sam28u</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/aayushsiwa" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/114244228?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="aayushsiwa"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>aayushsiwa</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/Alyssa-1001" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/203343120?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="Alyssa-1001"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>Alyssa-1001</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/Zemerik" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/133865660?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="Zemerik"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>Zemerik</b>
                     </sub>
                   </a>
                 </td>
                 <td align="center">
-                  <a href="" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/happy-crystal" target="_blank" rel="noopener noreferrer">
                     <img
-                      src=""
+                      src="https://avatars.githubusercontent.com/u/197806715?v=4"
                       width="85"
                       height="85"
                       className={styles.profileImage}
-                      alt=""
+                      alt="happy-crystal"
                     />
                     <br />
                     <sub>
-                      <b></b>
+                      <b>happy-crystal</b>
                     </sub>
                   </a>
-                </td> */}
+                </td>
               </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://github.com/monster0318" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/194675221?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="monster0318"
+                    />
+                    <br />
+                    <sub>
+                      <b>monster0318</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/AutoFTbot" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/151357338?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="AutoFTbot"
+                    />
+                    <br />
+                    <sub>
+                      <b>AutoFTbot</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/JustVal-su" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/185958622?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="JustVal-su"
+                    />
+                    <br />
+                    <sub>
+                      <b>JustVal-su</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/dimaswahyu-official" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/72015832?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="dimaswahyu-official"
+                    />
+                    <br />
+                    <sub>
+                      <b>dimaswahyu-official</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/mathncode-sid" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/168301526?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="mathncode-sid"
+                    />
+                    <br />
+                    <sub>
+                      <b>mathncode-sid</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/lele-maxwell" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/180977993?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="lele-maxwell"
+                    />
+                    <br />
+                    <sub>
+                      <b>lele-maxwell</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://github.com/Manpreets59" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/158404572?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="Manpreets59"
+                    />
+                    <br />
+                    <sub>
+                      <b>Manpreets59</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/brightsnow-dev" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/10526937?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="brightsnow-dev"
+                    />
+                    <br />
+                    <sub>
+                      <b>brightsnow-dev</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/sivamurthy30" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/128008786?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="sivamurthy30"
+                    />
+                    <br />
+                    <sub>
+                      <b>sivamurthy30</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/yashaswinirudrapaati20" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/162326240?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="yashaswinirudrapaati20"
+                    />
+                    <br />
+                    <sub>
+                      <b>yashawinirudurapaati20</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/dmsrsd" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/55923254?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="dmsrsd"
+                    />
+                    <br />
+                    <sub>
+                      <b>dmsrsd</b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="https://github.com/waabiud" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src="https://avatars.githubusercontent.com/u/155254269?v=4"
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt="waabiud"
+                    />
+                    <br />
+                    <sub>
+                      <b>waabiud</b>
+                    </sub>
+                  </a>
+                </td>
+              </tr>
+              {/* <tr>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+              </tr> */}
+              {/* <tr>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+              </tr> */}
+              {/* <tr>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+              </tr> */}
+              {/* <tr>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+                <td align="center">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+                    <img
+                      src=""
+                      width="85"
+                      height="85"
+                      className={styles.profileImage}
+                      alt=""
+                    />
+                    <br />
+                    <sub>
+                      <b></b>
+                    </sub>
+                  </a>
+                </td>
+              </tr> */}
               {/* <tr>
                 <td align="center">
                   <a href="" target="_blank" rel="noopener noreferrer">
