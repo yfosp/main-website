@@ -24,6 +24,7 @@
   backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.2);
   overflow-x: hidden;
+  text-align: center;
 }
 
 .slide.active {
@@ -107,6 +108,7 @@
   z-index: 1000;
   flex-wrap: wrap;
   backdrop-filter: blur(10px);
+  margin-top: 30px;
 }
 
 .navBtn {
@@ -204,7 +206,6 @@
   padding: 8px 12px;
   border-radius: 6px;
 }
-
 
 /* Media queries for small devices */
 @media (max-width: 768px) {

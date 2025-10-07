@@ -109,6 +109,7 @@ const LearnGitAndGitHub: NextPage = () => {
         </p>
 
         <div className={specificStyles.slideCounter}>
+          <span style={{fontWeight: "bold"}}>Slide </span>
           <span id="slide-number" style={{fontWeight: "bold"}}>1</span>
           <span style={{fontWeight: "bold"}}> / </span>
           <span id="total-slides" style={{fontWeight: "bold"}}>15</span>
@@ -364,38 +365,12 @@ const LearnGitAndGitHub: NextPage = () => {
 
           {/* Slide 13 */}
           <div className={specificStyles.slide}>
-            <h2>Git Branching Visualization</h2>
-            <h3>Branch Structure Example:</h3>
-            <div className={specificStyles.diagramContainer}>
-              <div className={specificStyles.branchDiagram}>
-                <div className={specificStyles.branchLine}>
-                  <div className={specificStyles.branchName}>main</div>
-                  <div className={specificStyles.commitNode}>A</div>
-                  <div className={specificStyles.commitNode}>B</div>
-                  <div className={specificStyles.commitNode}>E</div>
-                  <div className={specificStyles.commitNode}>F</div>
-                </div>
-                <div className={specificStyles.branchLine} style={{ marginLeft: 80 }}>
-                  <div className={specificStyles.branchName}>feature</div>
-                  <div style={{ width: 40 }}></div>
-                  <div className={specificStyles.commitNode}>C</div>
-                  <div className={specificStyles.commitNode}>D</div>
-                </div>
-                <div style={{ position: "relative", height: 20, width: "100%", margin: "-25px 0" }}>
-                  <div style={{ position: "absolute", left: 160, top: -10, width: 80, height: 2, background: "#667eea" }}></div>
-                  <div style={{ position: "absolute", left: 240, top: -10, width: 2, height: 30, background: "#667eea" }}></div>
-                  <div style={{ position: "absolute", left: 240, top: 18, width: 80, height: 2, background: "#667eea" }}></div>
-                </div>
-              </div>
-            </div>
-            <h3>GitHub Flow Process:</h3>
-            <div className={specificStyles.githubFlowDiagram}>
-              <div className={specificStyles.flowStep}><div className={specificStyles.stepNumber}>1</div>Create feature branch from main</div>
-              <div className={specificStyles.flowStep}><div className={specificStyles.stepNumber}>2</div>Make changes and commit</div>
-              <div className={specificStyles.flowStep}><div className={specificStyles.stepNumber}>3</div>Open Pull Request</div>
-              <div className={specificStyles.flowStep}><div className={specificStyles.stepNumber}>4</div>Code review and discussion</div>
-              <div className={specificStyles.flowStep}><div className={specificStyles.stepNumber}>5</div>Merge to main and deploy</div>
-            </div>
+            <h2>Git vs GitHub</h2>
+            <img
+              src="/gitVsgithub.png"
+              alt="Git vs GitHub"
+              style={{ maxWidth: "100%", height: "auto", borderRadius: 8, boxShadow: "0 2px 8px rgba(0,0,0,0.08)", margin: "24px 0" }}
+            />  
             {renderButtonsComponent()}
           </div>
 
