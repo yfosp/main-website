@@ -22,7 +22,8 @@
   align-items: center;
 }
 
-.communityGuidelines {
+.communityGuidelines,
+.learnGitAndGitHub {
   min-height: 80vh;
   padding: 0 0 2rem;
   flex: 1;
@@ -174,7 +175,6 @@
   overflow-x: auto !important;
 }
 
-
 @media (max-width: 600px) {
   .grid {
     width: 100%;
@@ -184,8 +184,7 @@
   .wrapperDiv {
     width: 100%;
     overflow-x: auto !important;
-    
-  }  
+  }
 }
 
 @media (max-width: 480px) {
