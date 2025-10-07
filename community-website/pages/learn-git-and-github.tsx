@@ -575,7 +575,7 @@ const LearnGitAndGitHub: NextPage = () => {
             <h3>Next Steps:</h3>
             <ul>
               <li>Practice with a sample project</li>
-              <li>Explore GitHub's advanced features</li>
+              <li>{`Explore GitHub's advanced features`}</li>
               <li>Implement a branching strategy</li>
               <li>Set up automated workflows with GitHub Actions</li>
             </ul>
