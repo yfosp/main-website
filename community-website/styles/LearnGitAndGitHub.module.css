@@ -97,7 +97,6 @@
 }
 
 .navigation {
-  position: fixed;
   bottom: 10px;
   left: 0;
   width: 100%;
@@ -176,6 +175,36 @@
 .step-number {
   flex: 1 1 auto;
 }
+
+/* =======================
+   Code & Commands
+   ======================= */
+.codeBlock,
+.command {
+  background: #2d3748;
+  color: #e2e8f0;
+  padding: 15px 20px;
+  border-radius: 10px;
+  font-family: "Courier New", monospace;
+  border-left: 4px solid #667eea;
+  overflow-x: auto;
+}
+
+.command-list {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 15px;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.command {
+  color: #ffd700;
+  font-size: 0.9em;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
 
 /* Media queries for small devices */
 @media (max-width: 768px) {
