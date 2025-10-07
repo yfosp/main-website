@@ -277,8 +277,9 @@ const LearnGitAndGitHub: NextPage = () => {
             </div>
             <h3>2. Configure Git</h3>
             <div className={specificStyles.codeBlock}>
-              git config --global user.name "Your Name" <br />
-              git config --global user.email "your.email@example.com" <br />
+              git config --global user.name &quot;Your Name&quot; <br />
+              git config --global user.email &quot;your.email@example.com&quot;{" "}
+              <br />
               git config --global init.defaultBranch main
             </div>
             <h3>3. Verify Installation</h3>
@@ -299,9 +300,9 @@ const LearnGitAndGitHub: NextPage = () => {
             <h3>2. Set up SSH Key (Recommended)</h3>
             <div className={specificStyles.codeBlock}>
               # Generate SSH key <br />
-              ssh-keygen -t ed25519 -C "your.email@example.com" <br />
+              ssh-keygen -t ed25519 -C &quot;your.email@example.com&quot; <br />
               # Add SSH key to ssh-agent <br />
-              eval "$(ssh-agent -s)" <br />
+              eval &quot;$(ssh-agent -s)&quot; <br />
               ssh-add ~/.ssh/id_ed25519 <br />
               # Copy public key to GitHub <br />
               cat ~/.ssh/id_ed25519.pub
@@ -331,7 +332,7 @@ const LearnGitAndGitHub: NextPage = () => {
               <div className={specificStyles.command}>git add .</div>
               <div>Stage all changes</div>
               <div className={specificStyles.command}>
-                git commit -m "message"
+                git commit -m &quot;message&quot;
               </div>
               <div>Commit staged changes</div>
               <div className={specificStyles.command}>git log</div>
@@ -425,9 +426,9 @@ const LearnGitAndGitHub: NextPage = () => {
             </div>
             <div className={specificStyles.codeBlock}>
               # Example workflow <br />
-              echo "Hello World" {">"} hello.txt <br />
+              echo &quot;Hello World&quot; {">"} hello.txt <br />
               git add hello.txt <br />
-              git commit -m "Add hello file" <br />
+              git commit -m &quot;Add hello file&quot; <br />
               git push origin main
             </div>
             {renderButtonsComponent()}
@@ -545,7 +546,7 @@ const LearnGitAndGitHub: NextPage = () => {
           {/* Slide 15 */}
           <div className={specificStyles.slide}>
             <h2>Summary</h2>
-            <h3>What We've Covered:</h3>
+            <h3>What We&apos;ve Covered:</h3>
             <ul>
               <li>
                 <strong>Version Control Systems:</strong> CVS vs DVS concepts
