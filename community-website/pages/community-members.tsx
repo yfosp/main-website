@@ -7670,7 +7670,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/samrato" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/samrato"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/146538882?v=4"
                       width="85"
@@ -7685,7 +7689,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/codecraftsman54" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/codecraftsman54"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/234325585?v=4"
                       width="85"
@@ -7702,7 +7710,11 @@ const CommunityMembers: NextPage = () => {
               </tr>
               <tr>
                 <td align="center">
-                  <a href="https://github.com/VictorMoni" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/VictorMoni"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/123900844?v=4"
                       width="85"
@@ -7717,7 +7729,11 @@ const CommunityMembers: NextPage = () => {
                   </a>
                 </td>
                 <td align="center">
-                  <a href="https://github.com/aditya2003-bit" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="https://github.com/aditya2003-bit"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
                       src="https://avatars.githubusercontent.com/u/114596740?v=4"
                       width="85"
