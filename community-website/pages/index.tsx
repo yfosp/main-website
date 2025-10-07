@@ -108,6 +108,15 @@ const Home: NextPage = () => {
             </a>
           </Link>
 
+          <Link href="./learn-git-and-github">
+            <a className={styles.card}>
+              <h2>Learn Git & GitHub &rarr;</h2>
+              <p>
+                Learn about Git & GitHub - the Fundamentals for Open Source 🌍
+              </p>
+            </a>
+          </Link>
+
           <Link href="https://github.com/yfosp" passHref>
             <a
               className={styles.card}
