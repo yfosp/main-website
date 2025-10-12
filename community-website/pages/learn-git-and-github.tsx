@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import type { NextPage } from "next";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useReducer } from "react";
 import Head from "next/head";
 import Link from "next/link";
 import ConfettiGenerator from "confetti-js";
@@ -12,28 +12,66 @@ import specificStyles from "../styles/LearnGitAndGitHub.module.css";
 const LearnGitAndGitHub: NextPage = () => {
   const currentSlide = useRef(0);
   const slidesRef = useRef<NodeListOf<Element>>();
-  const renderButtonsComponent = () => {
+  const renderSlideIndicators = () => {
+    if (!slidesRef.current) return null;
+    const totalSlides = slidesRef.current.length;
+
     return (
-      <div className={specificStyles.navigation}>
-        <button
-          className={specificStyles.navBtn}
-          id="prev-btn"
-          onClick={previousSlide}
-        >
-          ← Previous
-        </button>
-        <button
-          className={specificStyles.navBtn}
-          id="next-btn"
-          onClick={nextSlide}
-        >
-          Next →
-        </button>
+      <div className={specificStyles.slideIndicators}>
+        {Array.from({ length: totalSlides }, (_, index) => (
+          <button
+            key={index}
+            className={`${specificStyles.slideIndicator} ${
+              index === currentSlide.current ? specificStyles.active : ""
+            }`}
+            onClick={() => showSlide(index)}
+            aria-label={`Go to slide ${index + 1}`}
+            title={`Go to slide ${index + 1}`}
+          >
+            <span>{index + 1}</span>
+          </button>
+        ))}
       </div>
     );
   };
 
+  const renderButtonsComponent = () => {
+    if (!slidesRef.current) return null;
+    const totalSlides = slidesRef.current.length;
+    const isLastSlide = currentSlide.current === totalSlides - 1;
+
+    return (
+      <>
+        <div
+          className={`${specificStyles.navigation} ${
+            isLastSlide ? specificStyles.singleButton : ""
+          }`}
+        >
+          <button
+            className={specificStyles.navBtn}
+            id="prev-btn"
+            onClick={previousSlide}
+          >
+            <span style={{ position: 'relative', zIndex: 1 }}>← Previous</span>
+          </button>
+          {!isLastSlide && (
+            <button
+              className={specificStyles.navBtn}
+              id="next-btn"
+              onClick={nextSlide}
+            >
+              <span style={{ position: 'relative', zIndex: 1 }}>Next →</span>
+            </button>
+          )}
+        </div>
+        {renderSlideIndicators()}
+      </>
+    );
+  };
+
   // Show slide
+  const [, forceUpdate] = useReducer((x: number) => x + 1, 0);
+
   const showSlide = (n: number) => {
     if (!slidesRef.current) return;
     const slides = slidesRef.current;
@@ -41,20 +79,20 @@ const LearnGitAndGitHub: NextPage = () => {
 
     slides[currentSlide.current].classList.remove(specificStyles.active);
 
-    currentSlide.current = n;
-    if (currentSlide.current >= totalSlides) currentSlide.current = 0;
-    if (currentSlide.current < 0) currentSlide.current = totalSlides - 1;
+    // Ensure slide number stays within bounds without wrapping
+    currentSlide.current = Math.min(Math.max(0, n), totalSlides - 1);
 
     slides[currentSlide.current].classList.add(specificStyles.active);
 
     const slideNumberEl = document.getElementById("slide-number");
     const prevBtn = document.getElementById("prev-btn") as HTMLButtonElement;
-    const nextBtn = document.getElementById("next-btn") as HTMLButtonElement;
 
     if (slideNumberEl)
       slideNumberEl.textContent = String(currentSlide.current + 1);
     if (prevBtn) prevBtn.disabled = currentSlide.current === 0;
-    if (nextBtn) nextBtn.disabled = currentSlide.current === totalSlides - 1;
+
+    // Force re-render to update navigation buttons
+    forceUpdate();
   };
 
   const nextSlide = () => showSlide(currentSlide.current + 1);
@@ -73,7 +111,9 @@ const LearnGitAndGitHub: NextPage = () => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === "ArrowRight" || e.key === " ") {
         e.preventDefault();
-        nextSlide();
+        if (currentSlide.current < (slidesRef.current?.length || 0) - 1) {
+          nextSlide();
+        }
       } else if (e.key === "ArrowLeft") {
         e.preventDefault();
         previousSlide();
