@@ -244,3 +244,28 @@
     padding: 5px 10px;
   }
 }
+
+:global(.dark) .slide {
+  background: rgba(30, 30, 30, 0.95);
+  box-shadow: 0 20px 60px rgba(255, 255, 255, 0.1);
+  color: #f1f1f1;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+:global(.dark) .slide h2 {
+  color: #cbd5e0;
+}
+
+:global(.dark) .navBtn {
+  background: rgba(0, 0, 0, 0.2);
+  border: 2px solid white;
+  color: white;
+}
+
+:global(.dark) .navBtn:hover {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+:global(.dark) .slide-counter {
+  background: rgba(0, 0, 0, 0.2);
+}
