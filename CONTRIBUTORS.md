@@ -132,6 +132,18 @@
           <sub><b>aachal28</b></sub>
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/divy-03" target="_blank" rel="noopener noreferrer">
+          <img
+            src="https://avatars.githubusercontent.com/divy-03"
+            width="85"
+            alt="divy-03"
+          />
+          <br />
+          <sub><b>divy-03</b></sub>
+        </a>
+      </td>
+
     </tr>
   </tbody>
 </table>
