@@ -5,28 +5,29 @@ import React, { useState, useEffect } from "react";
 import { DarkModeSwitch } from "react-toggle-dark-mode";
 
 export default function DarkModeButton() {
-  const [darkMode, setDarkMode] = useState(false);
+  const [darkMode, setDarkMode] = useState(() => {
+    if (typeof window !== "undefined") {
+      return (
+        localStorage.theme === "dark" ||
+        (!("theme" in localStorage) &&
+          window.matchMedia("(prefers-color-scheme: dark)").matches)
+      );
+    }
+    return false;
+  });
 
   useEffect(() => {
-    if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-      document.documentElement.classList.add('dark');
-      setDarkMode(true);
+    if (darkMode) {
+      document.documentElement.classList.add("dark");
+      localStorage.setItem("theme", "dark");
     } else {
-      document.documentElement.classList.remove('dark');
-      setDarkMode(false);
-    }      
-}, [darkMode])
+      document.documentElement.classList.remove("dark");
+      localStorage.setItem("theme", "light");
+    }
+  }, [darkMode]);
 
   const toggleDarkMode = (checked: boolean) => {
-    if (checked) {
-      // Dark mode
-      localStorage.setItem("theme", "dark");
-      setDarkMode(checked);
-    } else {
-      // Light mode
-      localStorage.setItem("theme", "light");
-      setDarkMode(checked);
-    }
+    setDarkMode(checked);
   };
 
   return (
