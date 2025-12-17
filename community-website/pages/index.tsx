@@ -19,13 +19,12 @@ const Home: NextPage = () => {
       ],
       typeSpeed: 75,
       backSpeed: 75,
+      loop: true,
     };
 
-    // #typing-element refers to the <code> rendered below
     typed.current = new Typed("#typing-element", options);
 
     return () => {
-      // Destroy Typed instance during cleanup to prevent memory leaks
       typed.current?.destroy();
     };
   }, []);
@@ -44,6 +43,10 @@ const Home: NextPage = () => {
         <title>Your First Open Source Project</title>
         <meta name="description" content="YFOSP Community Website" />
         <link rel="icon" href="/earth-asia-solid.svg" />
+        <meta
+          name="keywords"
+          content="open source, first contribution, hacktoberfest, community, next.js, typescript"
+        />
       </Head>
 
       <canvas
@@ -53,7 +56,7 @@ const Home: NextPage = () => {
       ></canvas>
 
       <main className={`${styles.main} text-black dark:text-white`}>
-        <NavBar></NavBar>
+        <NavBar />
 
         <h1 className={styles.title}>
           Welcome to{" "}
@@ -73,15 +76,31 @@ const Home: NextPage = () => {
           ></code>
         </p>
 
+        <p className={styles.description}>
+          New to open source? Start with our guided checklist, learn the basics
+          of Git & GitHub, and pick a beginner‑friendly task from this website
+          itself.
+        </p>
+
         <div className={styles.grid}>
-          <Link href="./community-members">
+          <Link href="/start-here">
+            <a className={styles.card}>
+              <h2>Start Here &rarr;</h2>
+              <p>
+                Follow a simple step‑by‑step guide to make your first pull
+                request to this project.
+              </p>
+            </a>
+          </Link>
+
+          <Link href="/community-members">
             <a className={styles.card}>
               <h2>Our Community &rarr;</h2>
               <p>Find information about our community members here 👬</p>
             </a>
           </Link>
 
-          <Link href="./contributors">
+          <Link href="/contributors">
             <a className={styles.card}>
               <h2>Our Contributors &rarr;</h2>
               <p>
@@ -91,7 +110,7 @@ const Home: NextPage = () => {
             </a>
           </Link>
 
-          <Link href="./community-guidelines">
+          <Link href="/community-guidelines">
             <a className={styles.card}>
               <h2>Our Guidelines &rarr;</h2>
               <p>
@@ -101,14 +120,14 @@ const Home: NextPage = () => {
             </a>
           </Link>
 
-          <Link href="./educational-resources">
+          <Link href="/educational-resources">
             <a className={styles.card}>
               <h2>Education Resources &rarr;</h2>
               <p>Various educational resources for your learning journey 📖</p>
             </a>
           </Link>
 
-          <Link href="./learn-git-and-github">
+          <Link href="/learn-git-and-github">
             <a className={styles.card}>
               <h2>Learn Git & GitHub &rarr;</h2>
               <p>
