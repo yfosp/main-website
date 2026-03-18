@@ -143,7 +143,19 @@
           <sub><b>divy-03</b></sub>
         </a>
       </td>
-
+      </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/shubsolos19" target="_blank" rel="noopener noreferrer">
+          <img
+            src="https://avatars.githubusercontent.com/shubsolos19"
+            width="85"
+            alt="shubsolos19"
+          />
+          <br />
+          <sub><b>shubsolos19</b></sub>
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
