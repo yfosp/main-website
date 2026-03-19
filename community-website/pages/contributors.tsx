@@ -283,6 +283,7 @@ const Contributors: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+              </tr>
               <tr>
                 <td align="center" className={styles.tableData}>
                   <a
@@ -290,7 +291,7 @@ const Contributors: NextPage = () => {
                        target="_blank"
                        rel="noopener noreferrer"
                     >
-                       <img
+                      <img
                        src="https://avatars.githubusercontent.com/shubsolos19"
                        width="85"
                        height="85"
@@ -304,7 +305,6 @@ const Contributors: NextPage = () => {
                     </a>
                   </td>
                 </tr>
-              </tr>
             </tbody>
           </table>
         </div>
