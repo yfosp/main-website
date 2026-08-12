@@ -283,27 +283,27 @@ const Contributors: NextPage = () => {
                     </sub>
                   </a>
                 </td>
+              </tr>
               <tr>
                 <td align="center" className={styles.tableData}>
                   <a
-                       href="https://github.com/shubsolos19"
-                       target="_blank"
-                       rel="noopener noreferrer"
-                    >
-                       <img
-                       src="https://avatars.githubusercontent.com/shubsolos19"
-                       width="85"
-                       height="85"
-                       alt="shubsolos19"
-                       className={styles.profileImage}
-                      />
-                      <br />
-                      <sub>
-                        <b>shubsolos19</b>
-                      </sub>
-                    </a>
-                  </td>
-                </tr>
+                    href="https://github.com/shubsolos19"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="https://avatars.githubusercontent.com/shubsolos19"
+                      width="85"
+                      height="85"
+                      alt="shubsolos19"
+                      className={styles.profileImage}
+                    />
+                    <br />
+                    <sub>
+                      <b>shubsolos19</b>
+                    </sub>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
