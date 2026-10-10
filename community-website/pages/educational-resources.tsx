@@ -91,15 +91,10 @@ const EducationalResources: NextPage = () => {
               >
                 AWS Certification Exam Guides
               </a>
-              <br/>
+              <br />
             </div>
           </p>
-          &nbsp;
-          &nbsp;
-          &nbsp;
-          &nbsp;
-          &nbsp;
-          &nbsp;
+          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
           <p>
             <b>Web Development Resources</b>
             <div className={styles.educationalLinks}>
@@ -127,23 +122,19 @@ const EducationalResources: NextPage = () => {
                 Full Stack Developer Roadmap
               </a>
               <br />
-              <a href="https://github.com/aachal28/Awesome-web-development-resources"
-              target="_blank"
-              rel="noopener noreferrer"
+              <a
+                href="https://github.com/aachal28/Awesome-web-development-resources"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 Other Resources
               </a>
               <br />
             </div>
           </p>
-          &nbsp;
-          &nbsp;
-          &nbsp;
-          &nbsp;
-          &nbsp;
-          &nbsp;
+          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
           <p>
-            <b>GitHub Free Resources</b>
+            <b>GitHub Free Resources & Contribute to YFOSP</b>
             <div className={styles.educationalLinks}>
               <a
                 href="https://education.github.com/pack"
@@ -153,6 +144,21 @@ const EducationalResources: NextPage = () => {
                 GitHub Student Developer Pack
               </a>
               <br />
+              <a
+                href="https://github.com/yfosp/start-here"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Join our Open Source organization (YFOSP)
+              </a>
+              <br />
+              <a
+                href="https://forms.gle/JCpkf4Ya3L2c2xjf7"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Contribute to Open Source Research
+              </a>
             </div>
           </p>
         </div>
